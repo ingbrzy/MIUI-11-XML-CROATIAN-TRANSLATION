@@ -1,10 +1,10 @@
-<dl><dd><img src="https://i.imgur.com/s5PsCYM.png" border="0" alt="MIUI10_logo"></a></dd></dl>
+<dl><dd><img src="https://imgur.com/qHcGbnv" border="0" alt="MIUI11_logo"></a></dd></dl>
 
 
-MA-XML-10.0-CROATIAN
+MA-XML-11.0-CROATIAN
 ==========================
 
-CROATIAN Translation For Xiaomi MIUI V10 Android Based OS
+CROATIAN Translation For Xiaomi MIUI V11 Android Based OS
 
 
  MIUI Translation: **MASVA**
