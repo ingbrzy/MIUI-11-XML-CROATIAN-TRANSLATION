@@ -1,4 +1,4 @@
-<dl><dd><img src="https://imgur.com/qHcGbnv" border="0" alt="MIUI11_logo"></a></dd></dl>
+<dl><dd><img src="https://i.imgur.com/qHcGbnv.png" border="0" alt="MIUI11_logo"></a></dd></dl>
 
 
 MA-XML-11.0-CROATIAN
