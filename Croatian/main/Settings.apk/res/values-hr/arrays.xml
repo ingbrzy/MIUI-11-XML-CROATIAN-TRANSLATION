@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="ai_item_action_array">
+        <item>Ništa</item>
+        <item>Aktivirajte Google Assistant</item>
+     </string-array>
    <string-array name="status_bar_style_entries">
          <item>Kombinirano</item>
          <item>Odvojeno</item>

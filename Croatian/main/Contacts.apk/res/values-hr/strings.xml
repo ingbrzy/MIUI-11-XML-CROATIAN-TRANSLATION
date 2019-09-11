@@ -244,6 +244,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_miprofile_save_success_toast">Primanje Kartice kontakta</string>
   <string name="contact_detail_miprofile_settings_header">DODATNE POSTAVKE</string>
   <string name="contact_detail_miprofile_subtitle">Već ste razmjenili kartice</string>
+  <string name="contact_detail_more_calllog">Prikaži više</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Ne mogu se povezati na mrežu"</string>
   <string name="contact_detail_profile_switch_fail_toast">Pogreška našeg poslužitelja</string>
   <string name="contact_detail_profile_switch_off">Isključi Kartice kontakta</string>
@@ -948,6 +949,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="path_key_rebuild_t9_index_title">Aplikacije sustava/Kontakti/Organizraj kontakte/Ponovno izgradi podatke indeksa</string>
   <string name="path_key_sim_manage">Aplikacije sustava/Kontakti/Organizraj kontakte/SIM kartice</string>
   <string name="path_preference_contacts_filter">Aplikacije sustava/Kontakti/Opcije prikaza/Konfigururaj popis kontakata</string>
+  <string name="path_quick_dial_setting">Aplikacije sustava/Telefon/Napredne postavke/Brzo biranje</string>
   <string name="path_remove_duplicate">Aplikacije sustava/Kontakti/Organizraj kontakte/Združi dvostruke kontakte</string>
   <string name="path_share_visible_contacts">Aplikacije sustava/Kontakti/Uvoz/Izvoz kontakata/Dijeli kontakte</string>
   <string name="path_sim_capacity">Aplikacije sustava/Kontakti/Pohrana SIM kartice</string>

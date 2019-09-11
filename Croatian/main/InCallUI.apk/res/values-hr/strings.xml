@@ -165,6 +165,8 @@
   <string name="incoming_circle_text_message_p">Povuci prema gore</string>
   <string name="incoming_circle_text_reject">Otpusti</string>
   <string name="incoming_circle_text_reject_p">Povuci prema gore</string>
+  <string name="incoming_circle_text_video_answer">Otpustite da odgovorite videozapisom</string>
+  <string name="incoming_circle_text_video_answer_p">Povucite gore da odgovorite videozapisom</string>
   <string name="ivr_menu_dialing_msg">Preusmjeravanje…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Idite na odabranu uslugu…[Automatsko ispravljanje pogrešaka je omogućeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Dodirnite %s</string>
@@ -176,6 +178,7 @@
   <string name="keep_wait_call_back">Nastavi čekati</string>
   <string name="livetalk_dial">Korištenje paketa nadoplate</string>
   <string name="livetalk_hangup">Prekini poziv</string>
+  <string name="manager_conference_done">Gotovo</string>
   <string name="manageConferenceLabel">Upravljaj konferencijskim pozivom</string>
   <string name="miprofile_stranger_card">Nepoznato</string>
   <string name="modify_call_failure_str">"Zahtjev izmjene poziva nije uspio
@@ -252,6 +255,8 @@
   <string name="respond_via_sms_custom_message">Vlastiti SMS…</string>
   <string name="select_audio_dialog_title">Odaberite način odgovaranja</string>
   <string name="select_one_sim_title">Mogu koristiti samo SIM %1$d</string>
+  <string name="select_one_sim_title_for_heduohao">Mogu koristiti samo SIM %1$d Sub %2$d</string>
+  <string name="select_sim_hint_for_heduohao">"Ne mogu koristiti druge, dok je SIM %1$d Sub %2$d u upotrebi."</string>
   <string name="select_sim_hint">"Ne mogu koristiti SIM %2$d, dok je SIM %1$d u uporabi."</string>
   <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="separate_from_conference">Odvoji poziv</string>
@@ -264,12 +269,12 @@
   <string name="upgrade_vt_prompt">Prebaciti na videopoziv ?</string>
   <string name="user_locked_prompt">Otključaj uređaj za pristup kontaktima.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
-   <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
-   <string name="video_crbt_title">"Reproducira se zvuk videozapisa drugog partnera"</string>
+  <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
+  <string name="video_crbt_title">"Reproducira se zvuk videozapisa drugog partnera"</string>
   <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
-   <string name="voicemail">GOVORNA POŠTA</string>
-   <string name="volte_call">VoLTE poziv</string>
-   <string name="volume_boost_text">Glasnoća uspješno pojačana</string>
+  <string name="voicemail">GOVORNA POŠTA</string>
+  <string name="volte_call">VoLTE poziv</string>
+  <string name="volume_boost_text">Glasnoća uspješno pojačana</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?"
 "</string>

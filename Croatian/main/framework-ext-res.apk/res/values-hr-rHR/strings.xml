@@ -63,6 +63,7 @@
   <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
   <string name="file_sending">Prijenos datoteka…</string>
   <string name="first_back_long_press_message">"Za postavljanje prilagođenog pritisnite &amp; zadržite radnju za Navigacijske tipke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
+  <string name="flip_screen_camera_tip">Okrenite uređaj da koristite kameru</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Prisilno zatvorena \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
@@ -73,7 +74,7 @@
   <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
   <string name="frequent_email">Česta adresa e-pošte</string>
   <string name="frequent_phrases">Česti izrazi</string>
-   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
+  <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>

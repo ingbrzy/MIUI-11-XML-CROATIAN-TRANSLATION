@@ -226,6 +226,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="size_unknown">Nepoznata veličina</string>
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
+  <string name="storage_manage_title">Promjena plana Mi Cloud pohrane</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="title_alert_cancel_restore">Zaustavi vraćanje</string>
   <string name="title_alert_restore_error">Ne mogu vratiti</string>
