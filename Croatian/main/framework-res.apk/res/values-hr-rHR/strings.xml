@@ -428,7 +428,6 @@ koristeći %s"</string>
   <string name="ext_media_new_notification_title">Novi medij %s</string>
   <string name="ext_media_nomedia_notification_message">Neke funkcije možda neće pravilno raditi. Umetnite novi medij za pohranu.</string>
   <string name="ext_media_nofs_notification_title">Prazna memorija USB</string>
-  <string name="ext_media_nomedia_notification_message">Uklonjen je uređaj %s; umetnite novi</string>
   <string name="ext_media_nomedia_notification_title">Uklonjen je uređaj %s</string>
   <string name="ext_media_ready_notification_message">Za prijenos fotografija i medija</string>
   <string name="ext_media_safe_unmount_notification_message">USB memoriju možete sigurno ukloniti.</string>
@@ -1221,7 +1220,6 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_grantRevokePermissions">Aplikaciji omogućuje da odobri ili odbije određena dopuštenja za sebe ili druge aplikacije. Zlonamjerne aplikacije to mogu upotrijebiti za pristup značajkama za koje im niste odobrili pristup.</string>
   <string name="permdesc_handoverStatus">Omogućuje aplikaciji primanje podataka o trenutačnim prijenosima Android Beama</string>
   <string name="permdesc_hardware_test">Aplikaciji omogućuje upravljanje raznim perifernim uređajima za potrebe ispitivanja hardvera.</string>
-  <string name="permdesc_imagesWrite">Allows the app to modify your photo collection.</string>
   <string name="permdesc_injectEvents">Omogućuje aplikaciji slanje vlastitih ulaznih događaja (pritiskanje tipki itd.) drugim aplikacijama. Zlonamjerne aplikacije na taj način mogu preuzeti telefon.</string>
   <string name="permdesc_installLocationProvider">Stvaranje lažnih izvora lokacije radi testiranja ili za instaliranje novog pružatelja usluga lokacije. To aplikaciji omogućuje zaobilaženje lokacije i/ili statusa koji vraćaju drugi izvori lokacije, primjerice GPS ili pružatelji usluga lokacije.</string>
   <string name="permdesc_installPackages">Omogućuje aplikaciji instaliranje novih ili ažuriranih Androidovih paketa. Zlonamjerne aplikacije mogu na taj način dodati nove aplikacije s proizvoljno moćnim dozvolama.</string>
@@ -1595,7 +1593,6 @@ za račun %s."</string>
   <string name="permlab_grantRevokePermissions">dati ili oduzeti dopuštenja</string>
   <string name="permlab_handoverStatus">primati status prijenosa Android Beama</string>
   <string name="permlab_hardware_test">testiranje hardvera</string>
-  <string name="permlab_imagesWrite">modify your photo collection</string>
   <string name="permlab_injectEvents">pritisnite tipke i gumbe za nadzor</string>
   <string name="permlab_installLocationProvider">dopuštenje za instaliranje davatelja usluge lociranja</string>
   <string name="permlab_installPackages">izravno instaliranje aplikacija</string>
