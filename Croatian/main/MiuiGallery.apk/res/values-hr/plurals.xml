@@ -412,4 +412,8 @@
          <item quantity="other">"Ne mogu podijeliti. Još se obrađuje %d fotografija…"</item>
          <item quantity="one">"Ne mogu podijeliti. Još se obrađuje %d fotografija…"</item>
      </plurals>
+	      <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d datoteka</item>
+        <item quantity="one">%1$d datoteka</item>
+     </plurals>
 </resources>

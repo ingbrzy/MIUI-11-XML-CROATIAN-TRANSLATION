@@ -61,7 +61,7 @@
         <item quantity="one">%d poruka</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>
+        <item quantity="other">"Poruke nisu sinkronizirane: %d"</item>
         <item quantity="one">"%d poruka nije sinkronizirana"</item>
     </plurals>
 	<plurals name="mark_number_dialog_subtitle">
@@ -76,5 +76,13 @@
          <item quantity="other">Odabrano %d</item>
          <item quantity="zero">Odaberi stavke</item>
 		 <item quantity="one">Odabrano %d</item>
+     </plurals>
+	      <plurals name="notification_multiple">
+        <item quantity="other">"%s poruka | "</item>
+        <item quantity="one">"%s poruka | "</item>
+     </plurals>
+     <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Primili ste %d pozivnice za grupni chat</item>
+        <item quantity="one">Primili ste %d pozivnicu za grupni chat</item>
      </plurals>
 </resources>
