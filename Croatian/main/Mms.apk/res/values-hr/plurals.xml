@@ -78,8 +78,8 @@
 		 <item quantity="one">Odabrano %d</item>
      </plurals>
 	      <plurals name="notification_multiple">
-        <item quantity="other">"%s poruka | "</item>
-        <item quantity="one">"%s poruka | "</item>
+        <item quantity="other">"%s SMS-a | "</item>
+        <item quantity="one">"%s SMS | "</item>
      </plurals>
      <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Primili ste %d pozivnice za grupni chat</item>
