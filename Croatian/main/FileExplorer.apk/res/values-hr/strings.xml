@@ -202,7 +202,7 @@
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
   <string name="delete_files">Izbrisati datoteke: %1$d?</string>
-  <string name="delete_folder">Izbrisati ovu datoteku?</string>
+  <string name="delete_folder">Izbrisati ovu mapu?</string>
   <string name="delete_folders">Izbrisati mape: %1$d?</string>
   <string name="delete_selected_tasks">Izbrisati odabrane zadatke?</string>
   <string name="delete_success">Datoteka izbrisana</string>
@@ -431,7 +431,7 @@
   <string name="make_private_msg_3">Sve datoteke u ovoj mapi biti će skrivene.</string>
   <string name="male">Muškarac</string>
   <string name="megabyteShort">MB</string>
-  <string name="menu_item_cleanup">Čišćenje</string>
+  <string name="menu_item_cleanup">Očisti</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">Router</string>
@@ -528,7 +528,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
-  <string name="name_empty">Unesite naziv.</string>
+  <string name="name_empty">Unesite naziv</string>
   <string name="need_read_storage_permission">"Aplikacija Datoteke treba dopuštenje za pristup pohrani uređaja da radi normalno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
@@ -847,7 +847,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="select_interest_tip">Ima puno toga za otkriti!</string>
   <string name="select_music">Glazba</string>
   <string name="select_video">Videozapisi</string>
-  <string name="select_volume">Odaberite volumen</string>
+  <string name="select_volume">Odaberite medij</string>
   <string name="send_comment">Pošalji</string>
   <string name="send_error">"Ne mogu dodati komentar"</string>
   <string name="send_sticker">Pošalji naljepnicu</string>
@@ -927,7 +927,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="stay_awake_title">Drži zaslon uključenim</string>
   <string name="sticker_btn_str_explore_tab">Istražite masu zabavnih stvari!</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
-  <string name="storage_cloned_app">Prostor za pohranu za dvojne aplikacije</string>
+  <string name="storage_cloned_app">Prostor za pohranu dvojnih aplikacija</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
@@ -942,7 +942,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="swap_tip_1">Povucite lijevo ili desno</string>
   <string name="swap_tip_2">da gledate druge dostupne</string>
   <string name="subtitle_report_video">Šalje %1$s</string>
-  <string name="sys_size_enable">" videozapise"</string>
+  <string name="sys_size_enable">" dostupno"</string>
   <string name="tab_app">Više</string>
   <string name="system_alert">Internet povezivanje</string>
   <string name="system_sticker_control">Prikaži popularne videozapise</string>
@@ -982,7 +982,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="title_expire_video">O isteku</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
-  <string name="title_select_volume">Odaberite mape</string>
+  <string name="title_select_volume">Odaberite mapu</string>
   <string name="title_upload_video">Podijelite video isječke</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">ALATI</string>
@@ -1208,7 +1208,7 @@ oslobodili prostor.</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="xiaomi_login_btn_str">Mi Račun</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
   <string name="you_liao_god_desc">Učitajte videozapise i proširite svoju bazu obožavatelja da dobijete status gospodina</string>

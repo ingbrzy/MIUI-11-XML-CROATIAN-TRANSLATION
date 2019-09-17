@@ -2110,6 +2110,17 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_send_sms_descx">Pošalji SMS i MMS poruke direktno</string>
   <string name="permission_with_SMS_and_MMS">Dopuštenja koja se odnose na SMS i MMS</string>
   <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
+  <string name="permgroupdesc_calendar">Pristup kalendarskim događajima</string>
+  <string name="permgroupdesc_calllog">Pristup i spremanje stavki za povijest poziva</string>
+  <string name="permgroupdesc_camera">Fotografirati i snimati videozapise</string>
+  <string name="permgroupdesc_contacts">Pristup kontaktima</string>
+  <string name="permgroupdesc_location">Pristup informacijama o lokaciji</string>
+  <string name="permgroupdesc_microphone">Snimanje zvuka</string>
+  <string name="permgroupdesc_phone">Upućivanje poziva i upravljanje razgovorom</string>
+  <string name="permgroupdesc_recognition">Pristup podacima o zdravlju &amp; i aktivnosti</string>
+  <string name="permgroupdesc_sensors">Pristup podacima senzora tijela</string>
+  <string name="permgroupdesc_sms">Čitati ili slati SMS</string>
+  <string name="permgroupdesc_storage">Pristup fotografijama ili datotekama na uređaju</string>
   <string name="permit_running_network">Pozadinski podaci</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="phone">Telefon</string>
