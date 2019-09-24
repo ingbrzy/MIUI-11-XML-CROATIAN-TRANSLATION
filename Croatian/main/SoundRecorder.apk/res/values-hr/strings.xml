@@ -173,6 +173,7 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
+  <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Mi Cloudom</string>
   <string name="webview_check_network">Mrežne postavke</string>
   <string name="webview_data_error">Dogodila se pogreška</string>
   <string name="webview_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>

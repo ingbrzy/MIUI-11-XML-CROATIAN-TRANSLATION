@@ -273,6 +273,7 @@
   <string name="negDesc">Promjeni između temperatura ispod i iznad nule</string>
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
   <string name="network_confirm_title">Potrebno dopuštenje</string>
+  <string name="network_purpose">Dobrodošli u Kalkulator! Kalkulator vam omogućuje pretvorbu valuta, izračunavanje otplate hipoteke i još mnogo toga.</string>
   <string name="nickname">Prezime</string>
   <string name="night">PM</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>

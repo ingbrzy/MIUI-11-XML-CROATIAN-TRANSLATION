@@ -87,15 +87,15 @@
   <string name="action_text_readmode_more">Više</string>
   <string name="action_text_readmode_theme_head">Postavi pozadinu</string>
   <string name="action_text_theme_and_textsize_change">Podešavanje veličine slova i tema</string>
+  <string name="actionbar_share">Podijeli</string>
+  <string name="actionbar_textselection_title">Odabir teksta</string>
+  <string name="actionbar_web_search">Pretraživanje weba</string>
   <string name="ad_app_download_notification_content">Nakon dovršetka instalacije otvori demo~</string>
   <string name="ad_app_download_site_new">NOVO</string>
   <string name="ad_exit_dialog_exit_btn_name">Izlaz</string>
   <string name="ad_exit_dialog_message">Instalacija je dovršena! Želite li sada otvoriti?</string>
   <string name="ad_exit_dialog_open_btn_name">Otvori</string>
   <string name="ad_exit_dialog_title_name">Otvori novu aplikaciju</string>
-  <string name="actionbar_share">Podijeli</string>
-  <string name="actionbar_textselection_title">Odabir teksta</string>
-  <string name="actionbar_web_search">Pretraživanje weba</string>
   <string name="adblock_force_updating_rules_toast">Ažuriranje Ad blockera</string>
   <string name="adblock_notification">Blokirano reklama %d</string>
   <string name="adblock_rules_not_updated_toast">"Ne mogu ažurirati"</string>
@@ -287,23 +287,23 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Uvijek vjerujte da će se nešto
 divno dogoditi"</string>
-  <string name="custom_head_content_pull_down_text">Povuci dolje</string>
-  <string name="custom_head_pull_down_text">Unesite infoFlow</string>
   <string name="custom_head_card_text_incognito">"Sada ste anonimni!
 Stranice koje gledate neće se pojaviti u povijesti.​"</string>
+  <string name="custom_head_content_pull_down_text">Povuci dolje</string>
+  <string name="custom_head_pull_down_text">Unesite infoFlow</string>
   <string name="data_monitor">Prati uporabu podataka</string>
   <string name="data_monitor_dialog_message">Izgleda da nešto jako troši vaše mobilne podatke. Otvorite početnu stranicu da biste to zaustavili.</string>
-  <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_continue">Nastavi</string>
   <string name="data_traffic_download_cancel">Odustani</string>
   <string name="data_traffic_download_prompt">Trenutni videozapis može se preuzeti samo putem WLAN-a</string>
   <string name="data_traffic_download_setting">Postavke</string>
   <string name="data_traffic_goto">Besplatni promet podataka</string>
+  <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_prompt_free_data">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Dobijte besplatan promet podataka.</string>
   <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja.</string>
   <string name="data_traffic_prompt_title">Korištenje uporabe podataka</string>
   <string name="data_traffic_stop">Stop</string>
-  <string name="data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja.</string>
   <string name="date_picker_dialog_clear">Očisti</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Postavi</string>
@@ -355,9 +355,9 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="download_completed">Preuzeto</string>
   <string name="download_default_path_txt">Zapamti ovaj odabir</string>
   <string name="download_dialog_default_path_invalid">"Lokacija preuzimanja koju ste odabrali nije valjana. Spremanje na zadanu lokaciju…"</string>
+  <string name="download_dialog_file_length_default_txt">Samo trenutak…</string>
   <string name="download_dialog_file_length_hint_txt">"Veličina datoteke: "</string>
   <string name="download_dialog_file_length_lessthan1kb">Manje od 1KB</string>
-  <string name="download_dialog_file_length_default_txt">Samo trenutak…</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Ne mogu preuzeti"</string>
   <string name="download_dialog_file_length_nolength_txt">Preuzimanje…</string>
   <string name="download_failed">"Ne mogu završiti preuzimanje"</string>
@@ -1130,6 +1130,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="next_button_label">Dalje</string>
   <string name="no_app_open_document">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="no_matches">Nema podudaranja</string>
+  <string name="no_memory_space">Nema memorijskog prostora</string>
   <string name="no_space_alert_cancel">Kasnije</string>
   <string name="no_space_alert_clean">Oslobodite prostor</string>
   <string name="no_space_alert_text">Nema dovoljno prostora za pohranu</string>
@@ -1147,9 +1148,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="open_cloud_sync_desc">Oznaka uspješno dodana. Uključite sinkronizaciju s Mi Cloudom kako biste sinkronizirali oznake dodane na druge uređaje. Prijaviti se i uključiti?</string>
   <string name="open_file_explorer_failed">"Ne mogu otvoriti aplik. Datoteke"</string>
   <string name="open_voice_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
+  <string name="opening_file_error">"Ne mogu otvoriti odabranu datoteku"</string>
   <string name="page_hang_message">Trenutna stranica ne reagira i morate ponovno pokrenuti Preglednik.</string>
   <string name="page_hang_title">Stranica ne reagira</string>
-  <string name="opening_file_error">"Ne mogu otvoriti odabranu datoteku"</string>
   <string name="page_info">Informacije o stranici</string>
   <string name="page_info_address">Adresa:</string>
   <string name="page_info_view">Prikaz informacija o stranici</string>
@@ -1178,8 +1179,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih obavijesti?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accept_quicklink_push">Vijesti</string>
-  <string name="pref_accessibility_recommending_search_title">Preporučeno pretraživanje</string>
   <string name="pref_accessibility">Pristupačnost</string>
+  <string name="pref_accessibility_recommending_search_title">Preporučeno pretraživanje</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim dodirom na tipku</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Brzi unos Poveznice</string>
@@ -1522,6 +1523,10 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="sync_and_backup_bookmark">Sinkroniziraj i pohrani oznake</string>
   <string name="sync_and_backup_history">Sinkroniziraj i pohrani povijest</string>
   <string name="sync_cloud_tabs">Sinkr.</string>
+  <string name="system_permission_accounts_purpose">Koristi se za prijavu i upravljanje sistemskim računima</string>
+  <string name="system_permission_main_purpose">Pregledavajte web, tražite informacije, čitajte vijesti, gledajte videozapise itd</string>
+  <string name="system_permission_phone_state_purpose">Koristi se za dobivanje IMEI identifikatora uređaja za pružanje odgovarajuće usluge</string>
+  <string name="system_permission_storage_purpose">Koristi se za čitanje i pisanje datoteka poput spremljenih slika i za omogućavanje značajke učitavanja/preuzimanja datoteka</string>
   <string name="tab_hotpage">Vijesti</string>
   <string name="tab_quicklinks">Početna stranica</string>
   <string name="tab_yellowpage">Poveznice</string>

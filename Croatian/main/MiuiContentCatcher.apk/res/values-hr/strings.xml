@@ -4,6 +4,7 @@
   <string name="auth_activity_label">Kontrolni kodovi</string>
   <string name="auth_fingerprint_content">Potvrdite svoj otisak prsta da biste pristupili spremljenim zaporkama</string>
   <string name="auth_fingerprint_content_message">"Nije moguće potvrditi otisak prsta, pokušajte ponovno"</string>
+  <string name="auth_fingerprint_content_message_error">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
   <string name="auth_fingerprint_title">Potvrdite svoj otisak prsta</string>
   <string name="autofill_description">"MIUI može šifrirati i pohraniti vaše zaporke tako da ih možete unijeti kad god vam je potrebno automatski. Xiaomi neće moći čitati vaše šifrirane zaporke."</string>
   <string name="autofill_hint_email_address">E-pošta</string>

@@ -395,6 +395,7 @@
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="messaging">Poruke</string>
+  <string name="mi_message_title">Mi Poruka</string>
   <string name="mipub_messaging_entry_title">Mi Poruka</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Sve MMS poruke osim poruka poslanih od ovlaštenih pošiljatelja bit će blokirani. Ovlašteni pošiljatelji uključuju mrežne operatere, državne sustave za rezervaciju željeznica itd.</string>
@@ -403,6 +404,8 @@
   <string name="mms_block_hint">"Ovaj pošiljatelj nije u vašim kontaktima.
 Ova poruka biti neželjena."</string>
   <string name="mms_block_hint_highlight">Blokiraj MMS</string>
+  <string name="mms_main_purpose">"Da biste pristupili punoj funkcionalnosti Poruka, dopustite aplikaciji da se poveže s internetom i uključite Mi Poruka i Smart Poruka."</string>
+  <string name="mms_title">Poruke</string>
   <string name="more">Više</string>
   <string name="move_down">Povuci prema dolje</string>
   <string name="move_up">Povuci prema gore</string>
@@ -470,6 +473,8 @@ Ova poruka biti neželjena."</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"I dalje ćete moći primati redovite SMS poruke od nepoznatih brojeva. Možete uključiti/isključiti ovu značajku  u bilo kojem trenutku u Poruke &gt; Postavke."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi Poruke od nepoznatih brojeva</string>
   <string name="mx_filter_message_from_stranger_summary">"I dalje ćete moći primati redovite SMS poruke od nepoznatih brojeva"</string>
+  <string name="mx_main_purpose">"Mi Poruka omogućuje vam slanje poruka drugim korisnicima Mi Poruka putem interneta bez dodatnih troškova.
+Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater naplatit će vam ovu poruku."</string>
   <string name="mx_message">Mi Poruke</string>
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_msg_pageview_setting_title">Postavke Mi Poruka</string>
@@ -477,6 +482,7 @@ Ova poruka biti neželjena."</string>
   <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
   <string name="mx_on_sim_2">Mi Poruka sa SIM utora 2</string>
   <string name="mx_online">Aktivirano</string>
+  <string name="mx_privacy_policy">Mi Message Pravila o Privatnosti</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
   <string name="mx_stranger_recommend_msg">Dodirni za blokiranje Mi Poruka od nepoznatih brojeva</string>
@@ -531,6 +537,11 @@ Ova poruka biti neželjena."</string>
   <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
   <string name="packages_select_sim_cards_title">Odaberite SIM karticu</string>
   <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
+  <string name="perm_purpose_mms_account">Za pristup podacima o računu</string>
+  <string name="perm_purpose_mms_storage">Za spremanje MMS privitaka</string>
+  <string name="perm_purpose_rcs_account">"Za prikazivanje početnih vodiča novim korisnicima"</string>
+  <string name="perm_purpose_rcs_phone_state">Za pristup IMEI radi identifikacije vašeg uređaja</string>
+  <string name="perm_purpose_rcs_storage">Za spremanje slika, videozapisa, datoteka i ostalih RCS privitaka</string>
   <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
   <string name="phrase_empty">Nema izraza</string>
   <string name="phrase_from">Šalje %1s</string>
@@ -669,8 +680,10 @@ Ova poruka biti neželjena."</string>
   <string name="rcs_group_chat_closed">(Zatvoreno)</string>
   <string name="rcs_group_notification_invitation">Pozivnica za grupni chat</string>
   <string name="rcs_hello_from_pc">Prijavite se na Fetion na računalu da biste prenijeli datoteke.</string>
+  <string name="rcs_main_purpose">Ova značajka omogućuje vam slanje i primanje RCS poruka. RCS poruke omogućuje China Mobile.</string>
   <string name="rcs_message">China Mobile Messaging</string>
   <string name="rcs_message_disable">"Ovu poruku nije moguće pregledati u Drugom prostoru"</string>
+  <string name="rcs_message_title">RCS Poruka</string>
   <string name="rcs_msg">China Mobile Messaging</string>
   <string name="rcs_not_online">"Ne mogu China Mobile Messaging. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="rcs_offline">Niste prijavljeni na UC. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -859,8 +872,11 @@ Ova poruka biti neželjena."</string>
   <string name="slide_show_part">Dio %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Povuci gore za poništavanje</string>
   <string name="slideshow_activity">Dijaprojekcija</string>
+  <string name="smart_message_title">Smart Poruka</string>
   <string name="smart_messages_network_allow_message">Mi Poruke trebaju se povezati s internetom kako bi njenje usluge normalno radile. Dopustiti sada?</string>
   <string name="smart_messages_network_allow_title">Internetska veza je obavezna</string>
+  <string name="smart_msg_main_purpose">Smart Poruka pruža prepoznavanje ID-a pošiljatelja i usluge pametnog izbornika.</string>
+  <string name="smart_msg_privacy_policy">Smart Poruka Pravila o Privatnosti</string>
   <string name="sms_card_partner_label">"SMS kartica partnera: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Sadržaj poruke</string>
@@ -919,6 +935,21 @@ Ova poruka biti neželjena."</string>
   <string name="summary_pref_cm_smart_sms">Predlošci kartica, brojevi SMS usluga i još mnogo toga.</string>
   <string name="switch_to_editor">Uređivanje</string>
   <string name="switch_to_menu">Izbornik</string>
+  <string name="system_permission_declare_agree">Slažem se</string>
+  <string name="system_permission_declare_disagree">"Ne slažem se"</string>
+  <string name="system_permission_declare_double_link" formatted="false">Pročitajte i pristanite na naše %1s i %2s prije upotrebe ove značajke.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! %2s</string>
+  <string name="system_permission_declare_no_say_no">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite prikupljanje i upotrebu vaših podataka, ova aplikacija neće moći normalno raditi."</string>
+  <string name="system_permission_declare_privacy_declare">"Poštujemo i štitimo vašu privatnost.
+Imajte na umu da %1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja za normalan rad:"</string>
+  <string name="system_permission_declare_revoke_path">Možete opozvati autorizaciju i isključiti usluge u postavkama Poruka.</string>
+  <string name="system_permission_declare_single_link">Pročitajte i pristanite na naše %1s prije upotrebe ove značajke.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Pročitajte i pristanite na naše %1s, %2s, i %3s prije upotrebe ove značajke.</string>
+  <string name="system_permission_declare_use_network">Povežite se na mrežu</string>
+  <string name="system_permission_perm_answer_call">Upućivanje poziva</string>
+  <string name="system_permission_perm_read_mms">Čitanje MMS-a</string>
+  <string name="system_permission_perm_read_numbers">Čitanje brojeva telefona</string>
+  <string name="system_permission_perm_send_mms">Slati MMS</string>
   <string name="text_in_popup_saved_to_clipboard">Uređivan tekst u skočnom prozoru je spremljen u međuspremnik</string>
   <string name="text_message">Tekstualna poruka</string>
   <string name="timed_message_expired_title">"%d označenih poruka nije bilo poslano"</string>

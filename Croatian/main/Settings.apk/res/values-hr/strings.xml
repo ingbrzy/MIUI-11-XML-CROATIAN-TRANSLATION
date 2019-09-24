@@ -1517,6 +1517,7 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="cache_header_label">Predmemorija</string>
   <string name="cache_size_label">Predmemorija</string>
   <string name="cached">Pozadinski proces u predmemoriji</string>
+  <string name="calendar_remind">Događaji</string>
   <string name="calendar_sound_dialog_title">Odaberite zvuk kalendara</string>
   <string name="calendar_sound_title">Zvuk kalendara</string>
   <string name="call_and_contact">Pozivi i kontakti</string>
@@ -1665,6 +1666,7 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="chip_text">Chip text</string>
   <string name="choose_a_card_to_reset">Odaberite SIM karticu za resetiranje</string>
   <string name="choose_assist_title">Odaberite aplikaciju Pomoćnik</string>
+  <string name="choose_lock_pattern_header_text">Postavi uzorak</string>
   <string name="choose_keyguard_clock_style">Format sata na Zaklj. zaslonu</string>
   <string name="choose_keyguard_clock_summary">"Ova postavka ne funkcionira s temama trećih strana"</string>
   <string name="choose_network_title">Odaberite mrežu</string>
@@ -1851,6 +1853,7 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="confirm_frp_credential_skip_txt">Umjesto toga upotrijebite Google račun</string>
   <string name="confirm_frp_credential_title">Otključaj nakon vraćanja na tvorničke postavke</string>
   <string name="confirm_install_and_connect">Instaliraj &amp; poveži</string>
+  <string name="confirm_lock_pattern_header_text">Iscrtajte svoj uzorak</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovno unesite novu zaporku za potpunu Sig. kopiju</string>
   <string name="confirm_password_with_fingerprint">Upotrijebi otisak prsta</string>
   <string name="confirm_password_with_password">Unesi zaporku</string>
@@ -6253,12 +6256,12 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="scan_soft_ap">Traženje novog uređaja…</string>
   <string name="scan_soft_ap_label">Spojite se na stari uređaj</string>
-  <string name="scanning_status_text_wifi_off_ble_off">Isključeno je pretraživanje Wi‑Fija i Bluetootha</string>
-  <string name="scanning_status_text_wifi_off_ble_on">Traženje Bluetootha uključeno, a Wi‑Fija isključeno</string>
-  <string name="scanning_status_text_wifi_on_ble_off">Traženje Wi‑Fija uključeno, a Bluetootha isključeno</string>
-  <string name="scanning_status_text_wifi_on_ble_on">Uključeno je traženje Wi‑Fija i Bluetootha</string>
+  <string name="scanning_status_text_wifi_off_ble_off">Isključeno je pretraživanje WLAN-a i Bluetootha</string>
+  <string name="scanning_status_text_wifi_off_ble_on">Traženje Bluetootha uključeno, a WLAN-a isključeno</string>
+  <string name="scanning_status_text_wifi_on_ble_off">Traženje WLAN-a uključeno, a Bluetootha isključeno</string>
+  <string name="scanning_status_text_wifi_on_ble_on">Uključeno je traženje WLAN-a i Bluetootha</string>
   <string name="sccret_code_error">Kôd koji ste unijeli nije točan.</string>
-  <string name="scheduled_style">Scheduled</string>
+  <string name="scheduled_style">Raspored</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Kliznite dolje da biste sakrili tipke zaslona</string>
@@ -6271,10 +6274,10 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija možda nije dizajnirana za vaš zaslon. Ovdje možete provjeriti kako se prilagođava vašem zaslonu.</string>
   <string name="screen_confirm">Uključi</string>
-  <string name="screen_dark_mode_advanced_title">Advanced</string>
+  <string name="screen_dark_mode_advanced_title">Napredno</string>
   <string name="screen_dark_mode_select_time_error_summary">"Vrijeme početka i završetka ne mogu biti isti"</string>
-  <string name="screen_dark_mode_smart_dark_summary">Apply dark mode to third party apps as well. Some apps might be displayed incorrectly.</string>
-  <string name="screen_dark_mode_smart_dark_title">Global dark mode</string>
+  <string name="screen_dark_mode_smart_dark_summary">Primijenite tamni način i na aplikacije trećih strana. Neke se aplikacije možda prikazuju pogrešno.</string>
+  <string name="screen_dark_mode_smart_dark_title">Globalni tamni način</string>
   <string name="screen_dark_mode_time_title">Raspored</string>
   <string name="screen_effect">Kontrast &amp; boje</string>
   <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
@@ -7742,6 +7745,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="system_backup_section_title">Sig. kopija</string>
   <string name="system_dashboard_summary">Jezici, pokreti, vrijeme, sigurnosna kopija</string>
   <string name="system_default_app">(Zadano sustavom)</string>
+  <string name="system_haptic_feedback">Haptička povratna informacija</string>
   <string name="system_navigation_title">Navigacija sustavom</string>
   <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
   <string name="system_print_service_help">O ispisu</string>
@@ -7791,7 +7795,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="telephony_monitor_toast">Da biste primijenili promjenu koju je izvršio TelephonyMonitor, ponovo pokrenite uređaj.</string>
-  <string name="temporary_style">10 seconds after tapping the screen</string>
+  <string name="temporary_style">10 sekundi nakon što dodirnete zaslon</string>
   <string name="terms_title">Uvjeti i odredbe</string>
   <string name="testing">Testiranje</string>
   <string name="testing_battery_info">Informacije o bateriji</string>
@@ -7881,6 +7885,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_jeejen">Jeejen Poč.  zaslon</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
+  <string name="title_layout_current2_weight">Veličina teksta &amp; font</string>
   <string name="title_layout_v2">Veličina teksta &amp; skaliranje</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_of_auto_launch_manage">Autom. pokretanje</string>
@@ -8911,6 +8916,9 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="webview_license_title">WebView licenca sustava</string>
   <string name="webview_uninstalled_for_user">(deinstalirano za korisnika %s)</string>
   <string name="welcome">"Dobro došli!"</string>
+  <string name="weight_heavy">Bold</string>
+  <string name="weight_light">Tanak</string>
+  <string name="weight_setting_toast">Debljinu fonta možete promijeniti samo za zadani font sustava</string>
   <string name="wfc_disclaimer_agree_button_text">NASTAVI</string>
   <string name="wfc_disclaimer_disagree_text">NE, HVALA</string>
   <string name="wfc_disclaimer_emergency_limitation_desc_text">"Vaš mobilni operater ne podržava hitne pozive putem Wi‑Fi poziva.

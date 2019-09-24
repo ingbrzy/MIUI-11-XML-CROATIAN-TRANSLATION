@@ -200,8 +200,9 @@ i na trenutak izađite iz pregleda"</string>
   <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
   <string name="confirm_recording_fail_title">"Ne mogu snimiti"</string>
-  <string name="confirm_restore_message">"Obnoviti Kameru na zadane postavke?"</string>
-  <string name="confirm_restore_title">Obnovi na zadane postavke</string>
+  <string name="confirm_reset_manually_parameter_message">Vratiti sve parametre na njihove zadane vrijednosti?</string>
+  <string name="confirm_restore_message">"Vratiti Kameru na zadane postavke?"</string>
+  <string name="confirm_restore_title">Vrati na zadane postavke</string>
   <string name="connect_wifi">Poveži se s tom mrežom</string>
   <string name="contact_address">Adresa</string>
   <string name="contact_birthday">Rođendan</string>
@@ -997,6 +998,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="raw_data_exit_button_text">Izlaz iz RAW načina</string>
   <string name="recommend_soft_light_tip">Koristite bljeskalicu u načinu mekog svjetla</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
+  <string name="reset_manually_parameter_confirmed">U redu</string>
+  <string name="reset_manually_parameter_hint">Vrati</string>
   <string name="resume_playing_message">Nastaviti s reprodukcijom od %s?</string>
   <string name="resume_playing_restart">Počni ispočetka</string>
   <string name="resume_playing_resume">Nastavi reprodukciju</string>

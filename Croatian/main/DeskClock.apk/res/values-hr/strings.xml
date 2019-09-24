@@ -347,4 +347,15 @@
   <string name="worldcolock_timezone_date">dd/MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
+  <string name="day">1 dan</string>
+  <string name="days">%d dana</string>
+  <string name="delete_alarm_confirm">Izbrisati ovaj alarm?</string>
+  <string name="hour">1 sat</string>
+  <string name="hours">%d sati</string>
+  <string name="life_post_wake_up_item_acumu_day">%1$s dana</string>
+  <string name="life_post_weather_description_secondary">%1$s | %2$s | %3$s</string>
+  <string name="minute">1 minuta</string>
+  <string name="minutes">%d min.</string>
+  <string name="timer_pause_hint">Pauziraj</string>
+  <string name="timer_running_hint">Nastavi</string>
 </resources>

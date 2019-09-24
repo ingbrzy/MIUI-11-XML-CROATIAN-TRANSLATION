@@ -335,6 +335,8 @@
   <string name="cloud_guide_slim_text">Automatski izradi Sig. kopiju. Uštedite više od 90% lokalne pohrane.</string>
   <string name="cloud_guide_slim_title">Optimizirajte lokalnu pohranu da spremite %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
+  <string name="cloud_privacy_with_ai_album">Izjava o privatnosti pri automatskom sigurnosnom kopiranju i obradi slike</string>
+  <string name="cloud_privacy_with_face">PIzjava o privatnosti pri automatskom sigurnosnom kopiranju i prepoznavanju lica</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_settings">Sig. kopije Galerije</string>
   <string name="cloud_storage_extend">Proširi Cloud prostor</string>

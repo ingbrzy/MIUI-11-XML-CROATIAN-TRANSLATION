@@ -513,6 +513,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_sms_verification_code_login_or_register">Prijavite se ili izradite račun pomoću SMS-a</string>
   <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
+  <string name="passport_ticket_login_select_sim_card">Odaberite SIM karticu</string>
+  <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+  <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">Odustani</string>
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>

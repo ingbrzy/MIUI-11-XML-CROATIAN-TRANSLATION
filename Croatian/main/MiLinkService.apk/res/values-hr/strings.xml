@@ -106,7 +106,11 @@ If you need to manually open the Miracast function, you can press the [Menu] but
 　　•Get phone information Read the phone IMEI, Android_id, version and log information recording.
 　　•After reading the sound, cast the sound to the large screen device.
 　　•Targeting permissions Locate and discover surrounding devices."</string>
-  <string name="private_protect">Protect privacy</string>
+  <string name="private_protect">Zaštitite privatnost</string>
+  <string name="san_wait_msg_1">Ciljani uređaj mora uključiti bežično emitiranje</string>
+  <string name="san_wait_msg_2">Pretraživanje uređaja može potrajati neko vrijeme…</string>
+  <string name="san_wait_msg_3">"Vanjske uređaje je lakše pronaći kada su povezani na istu mrežu kao i vaš telefon"</string>
+  <string name="san_wait_msg_4">"Pogledajte \"Pomoć\" ako ne možete pronaći uređaje"</string>
   <string name="service_name">UniPlay Service</string>
   <string name="small_window">Minimiziraj prozor</string>
   <string name="status_bar_in_casting">Emitiranje</string>

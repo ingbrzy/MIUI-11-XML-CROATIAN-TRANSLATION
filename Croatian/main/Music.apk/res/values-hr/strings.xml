@@ -196,6 +196,7 @@
   <string name="chinese_male">Muški izvođači (Kina)</string>
   <string name="choose_download_quality">Odaberi kvalitetu preuzimanja</string>
   <string name="choose_language">Odaberi jezik</string>
+  <string name="choose_music_lang_pref">Poželjni jezici za pjesme</string>
   <string name="choose_stream_quality">Odaberi kvalitetu streama</string>
   <string name="click_modify">Dodirnite za uređivanje teksta</string>
   <string name="click_to_shuffle">Slučajni odabir za sve</string>
@@ -1184,6 +1185,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="tab_local_folder_list">Mape</string>
   <string name="tab_local_track_list">Pjesme</string>
   <string name="tab_track">Pjesme</string>
+  <string name="tab_top_results">Najbolji rezultat</string>
   <string name="tab_video">Videozapisi</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
@@ -1242,6 +1244,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="toast_new_playlist_name_too_long">Naziv popisa za reprodukciju je predug</string>
   <string name="toast_normal_songs_for_download">Kvaliteta preuzimanja je postavljena na standardno</string>
   <string name="toast_normal_songs_for_stream">Kvaliteta streaminga je postavljena na standardno</string>
+  <string name="toast_my_playlist_sync_failed">"Sinkroniziranje popisa za reprodukciju nije uspjelo zbog mrežne pogreške."</string>
   <string name="toast_stream_normal">Reproducira se u standarnoj kvaliteti. Nabavite Premium pretplatu da slušate u visokoj kvaliteti zvuka.</string>
   <string name="toast_uhd_songs_for_download">Kvaliteta preuzimanja je postavljena na visoko</string>
   <string name="toast_uhd_songs_for_stream">Kvaliteta streaminga je postavljena na visoko</string>

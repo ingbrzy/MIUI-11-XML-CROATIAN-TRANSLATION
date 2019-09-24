@@ -9,6 +9,7 @@
   <string name="account_duplicate_dlg_title">Dvostruki račun</string>
   <string name="account_failure">Pogreška računa</string>
   <string name="account_name_toast">Račun s istim imenom već postoji.</string>
+  <string name="account_options_actionbar_title">Opće postavke</string>
   <string name="account_options_sync_title">Postavke sinkr.</string>
   <string name="account_password_spaces_error">"Ova zaporka počinje ili završava s jednim ili više znakova razmaka. Mnogi poslužitelji ne podržavaju zaporke s razmacima."</string>
   <string name="account_security_dialog_content_fmt">Račun %s zahtijeva da ažurirate svoje sigurnosne postavke.</string>
@@ -597,6 +598,9 @@
   <string name="mail_description_content">E-pošta je klijent e-pošte koji može upravljati s više poštanskih sandučića, podržavati slanje i primanje, obilježavanje e-pošte i pružanje usluga kao što je način sesija, plaćanje poštom, razvrstavanje pošte i ostale usluge. Nakon što deinstalirate poštu, podaci e-pošte bit će izbrisani.</string>
   <string name="mail_description_title">O aplikaciji</string>
   <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
+  <string name="mail_outlook_login_tips">Prema Microsoftovim zahtjevima, morate unijeti zaporku na Microsoftovoj stranici za autorizaciju.</string>
+  <string name="mail_outlook_oauth_login">Prijavite se s OAuth</string>
+  <string name="mail_outlook_psw_login">Prijavite se zaporkom</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obavijesti</string>
   <string name="mailbox_name_display_add_account">Dodaj račun</string>
@@ -711,8 +715,8 @@
   <string name="no_more_mail">Nema više poruka</string>
   <string name="no_recognize_describe">"Ne mogu pronaći e-poruke koje sadrže ulaznice ili rezervacije.
 Pokušajte s drugom pristiglom poštom."</string>
-  <string name="no_search_results">"Ne mogu pronaći rezultate"</string>
   <string name="no_remind">Ne podsjećaj</string>
+  <string name="no_search_results">"Ne mogu pronaći rezultate"</string>
   <string name="not_subject">(Nema predmeta)</string>
   <string name="not_synced_title">Račun nije sinkroniziran</string>
   <string name="note_text">Moguće kroz mrežu China Mobile ili provjere putem SMS, može stvoriti dodatne troškove.</string>
@@ -771,6 +775,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
   <string name="outbox_no_mails">Prazno</string>
+  <string name="outlook_login_failed_non_proxy_title">"Nije moguće pristupiti OutLook poslužitelju"</string>
   <string name="output_all_log">Ispiši sve zapise</string>
   <string name="output_db_summary">O izlaznoj bazi podataka</string>
   <string name="output_db_title">Izlazna baza podataka</string>
@@ -911,6 +916,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
   <string name="quick_4">Hajdemo dogovoriti sastanak na kojem ćemo raspraviti o tome.</string>
   <string name="quick_reply_dialog_title">Odaberite odgovor</string>
+  <string name="quick_reply_expend">Proširi</string>
   <string name="quick_reply_hint_bcc">"(U BCC)"</string>
   <string name="quick_reply_hint_cc">"(U CC)"</string>
   <string name="quick_reply_hint_reply_only_from">Brzi odgovor (samo pošiljatelj)</string>
@@ -1063,6 +1069,9 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="str_select_none">Poništi odabir</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
+  <string name="sync_calendra_fail_per_content">Dodirnite za omogućavanje pristupa kalendaru</string>
+  <string name="sync_calendra_fail_per_title">"Ne mogu sinkronizirati kalendar"</string>
+  <string name="sync_calendra_fail_permission">"Ne mogu sinkronizirati kalendar, dopustite E-pošti pristup vašem kalendaru u Postavkama"</string>
   <string name="sync_contacts_fail_per_content">Omogućite dopuštenja za kontakte</string>
   <string name="sync_contacts_fail_per_title">Sinkronizacija kontakta nije uspjela</string>
   <string name="sync_contacts_fail_permission">Sinkronizacija kontakta nije uspjela. Omogućite dopuštenja kontakata u postavkama.</string>

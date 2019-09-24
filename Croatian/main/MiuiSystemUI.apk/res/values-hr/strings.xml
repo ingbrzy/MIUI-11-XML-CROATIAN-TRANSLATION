@@ -718,6 +718,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
+  <string name="face_data_apply_for_category_title">Otključaj sa licem</string>
+  <string name="face_data_apply_for_keyguard_title">Zaklj. zaslon</string>
   <string name="face_data_input_camera_fail">"Ne mogu učitati Kameru"</string>
   <string name="face_data_input_camera_ok">Učitavanje Kamere…</string>
   <string name="face_data_input_cancel">Odustani</string>
@@ -750,6 +752,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
   <string name="face_unlock_by_notification_screen_on_msg">Možete otključati uređaj pomoću lica kada se zaslon uključi za dolazne obavijesti. To brže troši bateriju.</string>
   <string name="face_unlock_by_notification_screen_on_title">Dopusti otključavanje licem kada se zaslon uključi</string>
+  <string name="face_unlock_category_title">Opcije zaklj. zaslona</string>
   <string name="face_unlock_check_failed">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_close_screen">Približite se zaslonu</string>
   <string name="face_unlock_down">Podignite glavu</string>

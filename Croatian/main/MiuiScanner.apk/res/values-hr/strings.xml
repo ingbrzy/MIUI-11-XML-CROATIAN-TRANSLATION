@@ -47,6 +47,7 @@
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="cancel">Odustani</string>
   <string name="choose_picture">Odaberite sliku QR koda</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
   <string name="common_retry">Pokušaj ponovno</string>
   <string name="common_save">Spremi</string>
@@ -206,6 +207,7 @@
   <string name="setting_use_last_choose">Zapamti prethodni izbor</string>
   <string name="setting_wechat">WeChat</string>
   <string name="settings">Postavke</string>
+  <string name="setting_function_sort">Sortiranje značajki</string>
   <string name="setting_title">Postavke</string>
   <string name="shopping_searching">Traženje…</string>
   <string name="shopping_title">Snimite fotografiju proizvoda</string>
