@@ -3024,6 +3024,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="superpower_dialog_massage">"Ultra štednja baterije ograničava značajke koje najviše troše energiju i smanjuje performanse uređaja kako bi osnovne funkcije (npr. pozivi, SMS poruke i povezivanje s mrežom) bile dostupne koliko god je to moguće. Uključiti Ultra štednju baterije?"</string>
   <string name="superpower_dialog_title">Ultra štednja baterije</string>
   <string name="superpower_notification_hint_enter">Uključi</string>
+   <string name="superpower_notification_new_title">Preostalo je manje od %d%% baterije</string>
   <string name="superpower_notification_summary">Uključi Ultra štednju baterije</string>
   <string name="superpower_notification_time_12">EEEE, dd.MM</string>
   <string name="superpower_notification_time_24">EEEE, dd.MM</string>
@@ -3063,10 +3064,13 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_permission_declare_agree">Slažem se</string>
+  <string name="system_permission_declare_analytics_declare">"Zahvaljujemo što ste se uključili u naš program korisničkog iskustva. Vaš uređaj mora biti povezan s internetom da bi ova značajka normalno radila. Morate također dati sljedeća dopuštenja kako biste nam omogućili prikupljanje podataka koji će nam pomoći u poboljšanju naših proizvoda i usluga. Ti se podaci prikupljaju samo u statističke svrhe. Te podatke nećemo moći koristiti za osobnu identifikaciju.
+"</string>
   <string name="system_permission_declare_disagree">Ne slažem se</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći normalno raditi."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Ako ne želite odobriti ta dopuštenja, možete se odjaviti u Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Program iskustva korisnika."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći djelomično raditi."</string>
   <string name="system_permission_declare_privacy_declare">"Poštujemo i štitimo vašu privatnost.
 Imajte na umu da %1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja da normalno radi:"</string>

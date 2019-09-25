@@ -18,6 +18,18 @@
         <item>Kalendar</item>
         <item>Pohrana</item>
     </string-array>
+	<string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Za sinkronizaciju događaja</item>
+        <item>Za sinkronizaciju poruka</item>
+        <item>Za sinkronizaciju poruka</item>
+        <item>Za sinkronizaciju kontakata</item>
+        <item>Za sinkronizaciju kontakata</item>
+        <item>Za spremanje stavki na vaš uređaj (npr. slike, videozapisi, pjesme)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Za identifikaciju vašeg uređaja</item>
+        <item>Za lociranje uređaja i prebacivanje na izgubljeni način rada</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
          <item>Sinkr. podatke aplikacije</item>
          <item>Izradite Sig. kopiju izgleda Početnog zaslona</item>

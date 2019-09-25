@@ -541,7 +541,79 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_summary_sync_video_on_wifi_only">"Sinkr. videozapise profila kontakata samo kada je povezano na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
-  <string name="privacy_and_agreement">Privatnost i Sporazum</string>
+  <string name="priv_dialog_finddevice_all_purpose_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
+  <string name="priv_dialog_finddevice_all_purpose_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
+  <string name="priv_dialog_sync_all_purpose">"Dobrodošli u usluge Xiaomi Cloud! Možete koristiti Xiaomi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki WLAN-a, snimaka, izgleda početnog zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima."</string>
+  <string name="priv_doc_cloudservice">"Dobrodošli u usluge Xiaomi Cloud! Možete koristiti Xiaomi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki WLAN-a, snimaka, izgleda početnog zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.
+
+Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Xiaomi Cloud se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Kalendar:
+Za sinkronizaciju događaja
+&amp;#8226; Pristup SMS porukama:
+Za sinkronizaciju SMS poruka
+&amp;#8226; Pristup MMS porukama:
+Za sinkronizaciju MMS poruka
+&amp;#8226; Pristup kontaktima:
+Za sinkronizaciju kontakata
+&amp;#8226; Uređivanje kontakata:
+Za sinkronizaciju kontakata
+&amp;#8226; Pohrana:
+Za spremanje stavki na vaš uređaj (npr. slike, videozapisi, pjesme)
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Pravila o Privatnosti p&lt;/a&gt;&lt;/u&gt;"rije korištenja Xiaomi Cloud.
+"</string>
+  <string name="priv_doc_finddevice_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup informacijama o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="privacy_and_agreement">Uvjeti i odredbe</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="provision_sync_items_loading">Priprema za sinkronizaciju stavki</string>

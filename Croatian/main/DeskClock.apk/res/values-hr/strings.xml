@@ -191,13 +191,13 @@
   <string name="module_weather_ringtone_introduce_global">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu.</string>
   <string name="module_weather_ringtone_update_data">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
   <string name="module_weather_ringtone_update_success">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
-  <string name="module_week_ringtone_download_data">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
-  <string name="module_week_ringtone_download_wifi">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti audio audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
-  <string name="module_week_ringtone_introduce">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode.</string>
-  <string name="module_week_ringtone_update_data">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_update_success">Tjedni alarm dolazi s pozadinskom glazbom za svaki dan u tjednu. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
+  <string name="module_week_ringtone_download_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Alarm prirode reproducira različite zvukove ovisno o datumu. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti audio audio datoteka da bi to radilo. Preuzeti sada?</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Alarm prirode reproducira različite zvukove ovisno o datumu. Sat se treba povezati na internet za preuzimanje audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_introduce">Alarm prirode reproducira različite zvukove ovisno o datumu.</string>
+  <string name="module_week_ringtone_update_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
+  <string name="module_week_ringtone_update_success">Alarm prirode reproducira različite zvukove ovisno o datumu. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
   <string name="module_white_noise_download_data">Sat treba preuzeti audio datoteke za timere buke okoline. ≈30MB vaših mobilnih podataka bit će potrebni za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Da biste preuzeli audio datoteke za timere buke okoline (&amp;#8776;30MB) i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. You're using mobile data now. Slažete li se?"&lt;/Data&gt;</string>
   <string name="module_white_noise_download_wifi">Sat treba preuzeti audio datoteke za timere buke okoline. Preuzeti sada?</string>
@@ -227,7 +227,7 @@
   <string name="ringtone_firefly">Krijesnice</string>
   <string name="ringtone_other">Više melodija zvona</string>
   <string name="ringtone_weather">Vremenski alarm</string>
-  <string name="ringtone_week">Tjedni alarm</string>
+  <string name="ringtone_week">Alarm prirode</string>
   <string name="search_alarm_clock_keywords">Alarm;Budilica;</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_stopwatch_keywords">Štoperica</string>

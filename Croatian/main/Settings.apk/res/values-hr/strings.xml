@@ -519,6 +519,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="app_disable_dlg_title">Onemogućiti ugrađenu aplikaciju?</string>
   <string name="app_disable_dlg_text">Ako onemogućite tu aplikaciju, Android i druge aplikacije možda više neće funkcionirati pravilno. Napominjemo da ne možete izbrisati tu aplikaciju jer je unaprijed instalirana na vašem uređaju. Ako je onemogućite, isključit ćete je i više se neće prikazivati na vašem uređaju.</string>
   <string name="app_disable_notifications_dlg_title">Isključiti obavijesti?</string>
+  <string name="app_disable_notifications_dlg_text">Ako isključite obavijesti za ovu aplikaciju, možda će vam nedostajati važna upozorenja i ažuriranja.</string>
   <string name="app_factory_reset">Deinstaliraj ažuriranja</string>
   <string name="app_factory_reset_dlg_text">Sva ažuriranja ove aplikacije sustava Android bit će deinstalirana.</string>
   <string name="app_factory_reset_dlg_title">Deinstalirati ažuriranja?</string>
@@ -3091,6 +3092,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="font_size_summary">"Promjenite veličinu fonta teksta Poč. zaslona, panela obavijesti, tipkovnice i izbornika sustava.  
 
 "</string>
+  <string name="font_size_summary1">"Ako je tekst vašeg sustava i dalje premalen, pokušajte "</string>
   <string name="font_size_summary2"/>
   <string name="forbidden_network">(zabranjeno)</string>
   <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
@@ -3861,7 +3863,7 @@ To možete kasnije promijeniti u izborniku Postavke > Aplikacije i obavijesti."<
   <string name="location_no_recent_accesses">Nijedna aplikacija nije pristupila lokaciji u posljednje vrijeme</string>
   <string name="location_no_recent_apps">Nijedna aplikacija nije nedavno zatražila lokaciju</string>
   <string name="location_off_summary">ISKLJUČENO</string>
-  <string name="location_on_summary">UKLJUČENO/</string>
+  <string name="location_on_summary">UKLJUČENO</string>
   <string name="location_recent_location_access_view_details">Prikaži pojedinosti</string>
   <string name="location_recent_location_requests_see_all">Prikaži sve</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Poboljšajte lokaciju tako što ćete dopustiti aplikacijama i uslugama sustava otkrivanje Bluetooth uređaja u bilo kojem trenutku.</string>
@@ -5085,6 +5087,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="notifications_partly_blocked">Isklj. sljedeći br. kat: %1$d od %2$d</string>
   <string name="notifications_priority">Nadjačana je opcija Ne ometaj</string>
   <string name="notifications_redacted">Osjetljiv sadržaj nije na Zaklj. zaslonu</string>
+  <string name="notification_remind">Obavijesti</string>
   <string name="notifications_sensitive">Skriven osjetljivi sadržaj</string>
   <string name="notifications_sent_daily">~%1$s dnevno</string>
   <string name="notifications_sent_never">Nikada</string>
@@ -7241,6 +7244,7 @@ Ova značajka treba dopuštenja za pristup vašoj lokaciji, upotrebu mobilnih mr
   <string name="sound_vibrate_settings">Zvuk &amp; vibracija</string>
   <string name="sound_work_settings">Zvukovi radnog profila</string>
   <string name="speaker">Zvučnik</string>
+  <string name="speaker_clean">Očistite zvučnik</string>
   <string name="special_access">Pristup aplikacija</string>
   <string name="special_access_more">Prikaži više</string>
   <string name="speed_label_fast">Brzo</string>
@@ -8281,6 +8285,7 @@ S uređaja će se ukloniti i spremljeni otisci prstiju i nećete moći otključa
 
 S profila će se ukloniti i spremljeni otisci prstiju i nećete moći otključati profil, autorizirati kupnje niti se prijaviti u aplikacije pomoću njih."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Značajke za zaštitu profila neće funkcionirati bez PIN-a.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Značajke zaštite profila neće raditi bez zaporke."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Značajke zaštite uređaja neće funkcionirati bez zaključavanja zaslona.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Značajke zaštite uređaja neće funkcionirati bez zaključavanja zaslona.
 

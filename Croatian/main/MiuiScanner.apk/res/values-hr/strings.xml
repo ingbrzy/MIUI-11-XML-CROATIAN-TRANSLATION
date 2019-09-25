@@ -25,7 +25,11 @@
   <string name="accessibility_shutter_button">Okidač</string>
   <string name="action_search">Traži</string>
   <string name="address">Adresa:</string>
+  <string name="agree_app_use">Skeniranje QR kodova i prepoznavanje istih na drugim slikama</string>
   <string name="agree_btn">Slažem se</string>
+  <string name="agree_camera_permission">Za snimanje fotografija i videozapisa</string>
+  <string name="agree_storage_permission">Za pristup fotografijama i datotekama pohranjenim na vašem uređaju</string>
+  <string name="always">Always</string>
   <string name="allow_check_website_security">Prikaži obavijest sigurnosne provjere web stranice</string>
   <string name="amazon_assistant_shopping_title">Traži na Amazonu</string>
   <string name="app_description_content">Skener vam omogućuje skeniranje QR kodova, dokumenata, posjetnica i još mnogo toga.</string>
@@ -47,6 +51,7 @@
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="cancel">Odustani</string>
   <string name="choose_picture">Odaberite sliku QR koda</string>
+  <string name="choose_open_code_app">Odaberite aplikaciju</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
   <string name="common_retry">Pokušaj ponovno</string>
@@ -161,8 +166,11 @@
   <string name="not_insert_contact">"Ne mogu dodati kontakt"</string>
   <string name="not_recommend_access_web_url">Gibaj odavde</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="note">Napomena:</string>
+  <string name="once">Samo jednom</string>
   <string name="open_url">Otvori URL</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_scanner_setting">Aplikacije sustava/Skener</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
@@ -223,7 +231,9 @@
   <string name="tel">Telefon</string>
   <string name="tips_message">"Povežite se se na internet kako bi provjerili je li web-lokacija koju posjećujete sigurna."</string>
   <string name="title">Naslov:</string>
+  <string name="to_install_title">Ovaj QR kôd preusmjerava vas na deinstaliranu aplikaciju. Preuzeti sada ovu aplikaciju?</string>
   <string name="to_pay">Dovršite plaćanje</string>
+  <string name="toinstall">Preuzmi</string>
   <string name="translate_auto_lock">Zaključaj prijevod</string>
   <string name="translate_auto_unlock">Otključaj prijevod</string>
   <string name="translate_copy_success">Uspješno kopirano</string>
@@ -267,8 +277,10 @@
   <string name="weixin_code_tip">Koristite WeChat za skeniranje ovog QR koda</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_exist_fail">WLAN hotspot \"%1$s\" već postoji. Izbrišite ga i pokušajte ponovo.</string>
+  <string name="wifi_psd_toolong">Zaporka je predugačka. Unesite je ručno.</string>
   <string name="wifi_open_fail">"Ne mogu uključiti WLAN"</string>
   <string name="wifi_pwd">Zaporka:</string>
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="wx_not_installed_toast">Ovu značajka treba koristiti WeChat. Prvo instalirajte WeChat.</string>
 </resources>
