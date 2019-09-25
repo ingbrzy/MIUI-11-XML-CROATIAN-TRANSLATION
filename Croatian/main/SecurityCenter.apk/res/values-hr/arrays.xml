@@ -8,6 +8,7 @@
      <string-array name="date_of_traffic">
          <item>"Jučer "</item>
          <item>"Danas "</item>
+		 <item>"Prošli mjesec "</item>
          <item>"Ovaj mjesec "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,14 +19,17 @@
      <string-array name="date_of_traffic_prefix">
          <item>"Jučer: "</item>
          <item>"Danas: "</item>
+		 <item>"Prošli mjesec "</item>
          <item>"Ovaj mjesec: "</item>
      </string-array>
      <string-array name="date_of_app_all">
          <item>"Jučer (Mobilni podaci) "</item>
          <item>"Danas (Mobilni podaci) "</item>
+		 <item>"Prošli mjesec (Mobilni podaci) "</item>
          <item>"Ovaj mjesec (Mobilni podaci) "</item>
          <item>"Jučer (WLAN) "</item>
          <item>"Danas (WLAN) "</item>
+		 <item>"Prošli mjesec (WLAN) "</item>
          <item>"Ovaj mjesec (WLAN) "</item>
      </string-array>
      <string-array name="date_of_app">
