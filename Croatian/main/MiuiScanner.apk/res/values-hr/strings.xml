@@ -53,7 +53,6 @@
   <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_open_code_app">Odaberite aplikaciju</string>
-  <string name="choose_pay_title">Select payment method</string>
   <string name="choose_picture">Odaberite sliku QR koda</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
