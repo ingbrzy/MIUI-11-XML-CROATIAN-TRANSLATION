@@ -50,8 +50,11 @@
   <string name="call_anyone">Poziv</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="cancel">Odustani</string>
-  <string name="choose_picture">Odaberite sliku QR koda</string>
+  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_open_code_app">Odaberite aplikaciju</string>
+  <string name="choose_pay_title">Select payment method</string>
+  <string name="choose_picture">Odaberite sliku QR koda</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
   <string name="common_retry">Pokušaj ponovno</string>
@@ -137,7 +140,7 @@
   <string name="language_entry_russian">Russian</string>
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
-  <string name="low_version_tip">MIUI verzija je prestara. Ažurirajte MIUI da možete koristiti Skener.</string>
+  <string name="low_version_tip">Ažurirajte MIUI da možete koristiti Skener.</string>
   <string name="miracast_connect">Emitiraj</string>
   <string name="miracast_connect_fail">"Ne mogu emitirati, pokušajte ponovo"</string>
   <string name="miracast_connecting">Emitiranje…</string>

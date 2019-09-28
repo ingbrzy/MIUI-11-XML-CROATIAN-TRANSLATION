@@ -24,7 +24,7 @@
   <string name="add_clock">Dodaj sat</string>
   <string name="add_timezone_title">Dodaj vremensku zonu</string>
   <string name="alarm_alert">Zadani zvuk alarma</string>
-  <string name="alarm_alert_alert_silenced">Alarm utišan nakon %d min.</string>
+  <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
   <string name="alarm_alert_snooze_set">Odgođeno za %d minuta.</string>
   <string name="alarm_ascending_mode_summary">Glasnoća alarma će rasti postepeno</string>
   <string name="alarm_ascending_mode_title">Pojačavanje glasnoće</string>
@@ -85,11 +85,11 @@
   <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Izgleda da koristite tjedne i praznične alarme. Ova se značajka treba povezati na internet da radi normalno. Prije korištenja ove značajke morate pristati na naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?"&lt;/Data&gt;</string>
   <string name="dialog_legal_workday_and_off_day_desc">"Sat se ne smije povezivati s internetom radi ažuriranja podataka o praznicima. Tjedni alarmi isključiti će se od ponedjeljka do petka. Prazniči alarma isključiti će se u subotu i nedjelju."</string>
   <string name="dialog_legal_workday_desc">"Sat se ne smije povezivati s internetom radi ažuriranja podataka o radnim danima. Tjedni alarmi isključiti će se od ponedjeljka do petka."</string>
-  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Ova se značajka treba povezati na internet da radi normalno. Prije korištenja ove značajke morate pristati na naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="dialog_message_agree">Slažem se</string>
   <string name="dialog_message_for_contact_permission">Da bi alarm rođendana bio na raspolaganju, Sat treba pristupiti vašim kontaktima. Slažete se?</string>
   <string name="dialog_message_negative">"Ne slažem se"</string>
   <string name="dialog_message_not_remind">"Ne prikazuj ponovo"</string>
+  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Ova se značajka treba povezati na internet da radi normalno. Prije korištenja ove značajke morate pristati na naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="dialog_privacy_content">Kako bi dobili i sinkronizirali relevantne informacije o lokalnim praznicima i pružili personalizirane usluge, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i složiti se s našim %1$s i %2$s. Slažete se?</string>
   <string name="dialog_privacy_content_global">Kako bi pružili personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata, morate pročitati i složiti se s našim %1$s and %2$s. Slažete se?</string>
   <string name="dialog_privacy_content_news">Kako bi dobili personalizirane usluge i uključili jutarnje vijesti u vaše alarme, Sat se treba povezati s internetom. Prije korištenja Sata, morate pročitati i složiti se s našim %1$s i %2$s. Slažete se?</string>
@@ -100,19 +100,19 @@
   <string name="edit_alarm">Uredi alarm</string>
   <string name="edit_systemtime">Uredi vrijeme sustava</string>
   <string name="edit_systemtime_setting_summary">Datum, vrijeme i Dvostruki sat</string>
-  <string name="elapsed_time_format">+%s</string>
+  <string name="elapsed_time_format">+</string>
   <string name="every_day">Svaki dan</string>
   <string name="expired_timers_dismissed">Odbrojavanje je odbačeno</string>
   <string name="force_touch_add_alarm">Dodaj alarm</string>
   <string name="force_touch_enter_stopwatch">Štoperica</string>
-  <string name="force_touch_enter_timer">Kronometar</string>
+  <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Natrag</string>
   <string name="holiday_update">Dostupno je ažuriranje državnih praznika</string>
   <string name="holiday_update_fail">"Ne mogu ažurirati"</string>
   <string name="holiday_update_loading">Ažuriranje…</string>
   <string name="holiday_update_success">Sve stavke su ažurne</string>
-  <string name="hour_unit">h</string>
+  <string name="hour_unit">Hr +</string>
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
   <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
@@ -136,7 +136,7 @@
   <string name="legal_workday_message">" (Alarm se neće isključiti tijekom praznika)"</string>
   <string name="life_post_setting">Jutarnje izvješće</string>
   <string name="life_post_setting_FBE_remind">Zbog ograničenja sustava, informacije o vremenu u jutarnjem izvješću možda se neće prikazivati ispravno nakon ponovnog pokretanja</string>
-  <string name="life_post_setting_close_title">Zatvori jutrnja izvješća</string>
+  <string name="life_post_setting_close_title">Isključi jutrnja izvješća</string>
   <string name="life_post_setting_open_background_subtitle">Prikaži sliku pozadine za povezane alarme</string>
   <string name="life_post_setting_open_background_title">Prikaži sliku pozadine</string>
   <string name="life_post_setting_open_desc">Isključite ponavljanje alarma između 04:00 i 10:00 da biste slušali informacije o vremenu</string>
@@ -170,14 +170,14 @@
   <string name="module_download_data_msg_golbal">Sat mora preuzeti audio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_replace">Dostupan je ažurirani zvuk za MIUI pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_timer">Sat treba preuzeti audio datoteke za timer buke okoline. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
-  <string name="module_download_msg_timer">Sat treba preuzeti audio datoteke za mjerenje buke okoline. Preuzeti sada?</string>
   <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
   <string name="module_download_failure">"Ne mogu preuzeti zvuk. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="module_download_msg">Da bi MIUI pametni alarmi bili dostupni, Sat treba preuzeti audio datoteke. Pametni alarmi sadrže audio značajke koje omogućuju uključivanje informacija o trenutnom vremenu u alarme. Preuzeti sada?</string>
   <string name="module_download_msg_golbal">Da bi MIUI pametni alarmi bili dostupni,  audio datoteke. Preuzeti sada?</string>
   <string name="module_download_msg_replace">Dostupan je ažurirani zvuk za MIUI pametne alarme. Preuzeti sada?</string>
+  <string name="module_download_msg_timer">Sat treba preuzeti audio datoteke za mjerenje buke okoline. Preuzeti sada?</string>
   <string name="module_download_no_network">"Za preuzimanje zvuka potrebno je da se Sat poveže s internetom. Provjerite postavke mreže i pokušajte ponovno."</string>
-  <string name="module_download_ok">Dopusti</string>
+  <string name="module_download_ok">Slažem se</string>
   <string name="module_download_success">Uspješno preuzeto</string>
   <string name="module_download_title">Potreban je dodatni zvuk</string>
   <string name="module_downloading">Preuzimanje zvuka…</string>
@@ -199,7 +199,7 @@
   <string name="module_week_ringtone_update_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
   <string name="module_week_ringtone_update_success">Alarm prirode reproducira različite zvukove ovisno o datumu. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
   <string name="module_white_noise_download_data">Sat treba preuzeti audio datoteke za timere buke okoline. ≈30MB vaših mobilnih podataka bit će potrebni za ovo preuzimanje. Preuzeti sada?</string>
-  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Da biste preuzeli audio datoteke za timere buke okoline (&amp;#8776;30MB) i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. You're using mobile data now. Slažete li se?"&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Da biste preuzeli audio datoteke za timere buke okoline (&amp;#8776;30MB) i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Sada upotrebljavate mobilne podatke. Slažete li se?"&lt;/Data&gt;</string>
   <string name="module_white_noise_download_wifi">Sat treba preuzeti audio datoteke za timere buke okoline. Preuzeti sada?</string>
   <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Da biste preuzeli audio datoteke za timere buke okoline i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; Slažete li se?&lt;/Data&gt;</string>
   <string name="monday_to_friday">Pon - Pet</string>
@@ -244,17 +244,19 @@
   <string name="shortcut_new_alarm">Postavi alarm</string>
   <string name="shortcut_start_timer">Pokreni timer</string>
   <string name="shortcut_stop_watch">Pokreni štopericu</string>
-  <string name="shutdown_alarm_disable_summary">"Alarm se neće isključiti nakon što se uređaj isključi"</string>
-  <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 5 minuta nakon što isključite uređaj"</string>
-  <string name="shutdown_alarm_title">Isključi alarm</string>
   <string name="shut_down_keep_screen">"Zaslon neće ostati uključen"</string>
-  <string name="shutdown_alarm_alert_enable_summary">Alarm će se isključiti ako je postavljen najmanje 10 minuta nakon što isključite uređaj</string>
+  <string name="shutdown_alarm_alert_enable_summary">Alarm isključivanja isključit će se najmanje 10 minuta nakon isključivanja uređaja</string>
   <string name="shutdown_alarm_alert_title">Isključi alarm</string>
+  <string name="shutdown_alarm_disable_summary">"Alarm se neće isključiti nakon što se uređaj isključi"</string>
+  <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 10 minuta nakon što isključite uređaj"</string>
+  <string name="shutdown_alarm_title">Alarm isključivanja </string>
   <string name="silent_alarm_summary">Bešumno</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="slider_text">Povucite gore za isklj. alarma</string>
   <string name="snooze_confirm_cancel">Odbaci alarm</string>
   <string name="snooze_duration">Odgodi</string>
+  <string name="snooze_duration_text">%1$s | %2$s</string>
   <string name="snooze_duration_title">Odgodi</string>
   <string name="snooze_duration_value">Interval (min.)</string>
   <string name="start">Start</string>
@@ -347,15 +349,4 @@
   <string name="worldcolock_timezone_date">dd/MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
-  <string name="day">1 dan</string>
-  <string name="days">%d dana</string>
-  <string name="delete_alarm_confirm">Izbrisati ovaj alarm?</string>
-  <string name="hour">1 sat</string>
-  <string name="hours">%d sati</string>
-  <string name="life_post_wake_up_item_acumu_day">%1$s dana</string>
-  <string name="life_post_weather_description_secondary">%1$s | %2$s | %3$s</string>
-  <string name="minute">1 minuta</string>
-  <string name="minutes">%d min.</string>
-  <string name="timer_pause_hint">Pauziraj</string>
-  <string name="timer_running_hint">Nastavi</string>
 </resources>
