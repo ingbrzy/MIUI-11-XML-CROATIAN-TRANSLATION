@@ -37,8 +37,8 @@
         <item quantity="one">Alarm je odgođen na %d minutu</item>
     </plurals>
 	<plurals name="snooze_duration_count">
-        <item quantity="other">Isklj. %2$s puta</item>
-        <item quantity="one">Isklj. %2$s put</item>
+        <item quantity="other">Isklj. %1$s puta</item>
+        <item quantity="one">Isklj. %1$s put</item>
     </plurals>
 	<plurals name="snooze_duration_desc">
         <item quantity="other">Svakih %1$s min, isklj. %2$s puta</item>
