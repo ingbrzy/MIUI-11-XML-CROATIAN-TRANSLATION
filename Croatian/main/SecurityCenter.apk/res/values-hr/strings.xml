@@ -3067,22 +3067,22 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo što ste se uključili u naš program korisničkog iskustva. Vaš uređaj mora biti povezan s internetom da bi ova značajka normalno radila. Morate također dati sljedeća dopuštenja kako biste nam omogućili prikupljanje podataka koji će nam pomoći u poboljšanju naših proizvoda i usluga. Ti se podaci prikupljaju samo u statističke svrhe. Te podatke nećemo moći koristiti za osobnu identifikaciju.
 "</string>
   <string name="system_permission_declare_disagree">Ne slažem se</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">Pročitajte i složite se s našim Korisnički Sporazum i Pravila o Privatnosti prije korištenja ove značajke.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
-  <string name="system_permission_declare_no_say_no">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći normalno raditi."</string>
+  <string name="system_permission_declare_no_say_no">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Ako ne želite odobriti ta dopuštenja, možete se odjaviti u Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Program iskustva korisnika."</string>
-  <string name="system_permission_declare_no_say_no_non_mandatory">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći djelomično raditi."</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
   <string name="system_permission_declare_privacy_declare">"Poštujemo i štitimo vašu privatnost.
 Imajte na umu da %1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja da normalno radi:"</string>
   <string name="system_permission_declare_privacy_no_permission">"Imajte na umu da %1s mora prikupiti vaše podatke da normalno radi.
 Poštujemo i štitimo vašu privatnost."</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy">Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.</string>
   <string name="system_permission_declare_revoke_system">Možete izaći iz ove aplikacije.</string>
   <string name="system_permission_declare_revoke_uninstallable">Možete se odjaviti, deinstalirati tu aplikaciju ili oduzeti autorizaciju u Sigurnost &gt; Upravljaj aplikacijama &gt; Dopuštenja &gt; Dopuštenja.</string>
   <string name="system_permission_declare_use_network">Povezivanje s mrežom</string>
   <string name="system_permission_declare_use_network_no_permission">Poveži se s mrežom</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
-  <string name="system_permission_perm_answer_call">Upućivanje poziva</string>
+  <string name="system_permission_declare_user_agreement">Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; prije korištenja ove značajke.</string>
+  <string name="system_permission_perm_answer_call">Upučivanje poziva</string>
   <string name="system_permission_perm_read_mms">Čitanje MMS-a</string>
   <string name="system_permission_perm_read_numbers">Čitanje telefonskih brojeva</string>
   <string name="system_permission_perm_send_mms">Slanje MMS-a</string>

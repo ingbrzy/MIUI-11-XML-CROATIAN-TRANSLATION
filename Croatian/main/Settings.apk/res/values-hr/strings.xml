@@ -253,7 +253,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="account_autostar_label">Autom. pokretanje</string>
   <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
   <string name="account_dashboard_default_summary">Nije dodan nijedan račun</string>
-  <string name="account_dashboard_title">Korisnici i računi</string>
+  <string name="account_dashboard_title">Računi</string>
   <string name="account_for_section_header">Računi za korisnika %1$s</string>
   <string name="account_list">Ostali računi</string>
   <string name="account_login">Prijavite se</string>
@@ -262,7 +262,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="account_settings_menu_auto_sync">Automat. sinkroniziraj podatke</string>
   <string name="account_settings_menu_auto_sync_personal">Autom. sinkroniz. osobne podatke</string>
   <string name="account_settings_menu_auto_sync_work">Autom. sinkroniz. radne podatke</string>
-  <string name="account_settings_title">Google &amp; Računi</string>
+  <string name="account_settings_title">Google &amp; računi</string>
   <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="account_sync_summary_all_off">Sinkronizacija isključena za sve stavke</string>
@@ -339,12 +339,12 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="admin_profile_owner_message">Vaš administrator može nadzirati aplikacije i postavke povezane s vašim radnim profilom, uključujući postavke, dopuštenja, korporacijski pristup, aktivnost na mreži i podatke o lokaciji uređaja, te njima upravljati.</string>
   <string name="admin_profile_owner_user_message">Vaš administrator može nadzirati aplikacije i podatke povezane s tim korisnikom, uključujući postavke, dopuštenja, korporacijski pristup, aktivnost na mreži i podatke o lokaciji uređaja, te njima upravljati.</string>
   <string name="admin_support_more_info">Više pojedinosti</string>
-  <string name="advanced_apps">Dodatne postavke</string>
+  <string name="advanced_apps">Napredno</string>
   <string name="advanced_battery_graph_subtext">Procjena stanja baterije temelji se na upotrebi uređaja</string>
-  <string name="advanced_battery_title">Napredna potrošnja baterije</string>
-  <string name="advanced_section_header">Dodatne postavke</string>
-  <string name="advanced_security_title">Dodatne postavke</string>
-  <string name="advanced_settings">Napredne postavke</string>
+  <string name="advanced_battery_title">Potrošnja baterije</string>
+  <string name="advanced_section_header">Napredno</string>
+  <string name="advanced_security_title">Napredno</string>
+  <string name="advanced_settings">Dodatne postavke</string>
   <string name="advanced_settings_summary">Omogući više opcija postavki</string>
   <string name="advanced_text_layout">Omogući napredan izgled teksta</string>
   <string name="agps_roaming">A-GPS u roamingu</string>
@@ -408,7 +408,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
   <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
   <string name="allow_vibrate_title">Dopusti vibraciju</string>
-  <string name="alpha_build">" | Alpha"</string>
+  <string name="alpha_build">Alpha</string>
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="always">Uvijek</string>
   <string name="always_allow_bind_appwidgets_text">Odlučili ste dopustiti ovoj aplikaciji izradu widgeta i pristupanje njihovim podacima.</string>
@@ -464,6 +464,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_mode_title">Uvijek uključeno način rada</string>
   <string name="aod_mode_turn_off">Isključi</string>
   <string name="aod_mode_turn_on">Uključi</string>
+  <string name="aod_name_wanxiang">Ambijentalni zaslon</string>
   <string name="aod_notification_style_animation">Prikaži animaciju</string>
   <string name="aod_notification_style_none">Ništa</string>
   <string name="aod_notification_style_screen_on">Uključi zaslon</string>
@@ -585,7 +586,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="app_permission_summary_not_allowed">Nije dopušteno</string>
   <string name="app_permissions">Upravitelj dopuštenja</string>
   <string name="app_permissions_group_summary" formatted="false">Broj aplikacija s dopuštenjem: %d od %d</string>
-  <string name="app_permissions_summary" formatted="false">Broj aplikacija s dodatnim pristupom: %d od %d</string>
+  <string name="app_permissions_summary">Broj aplikacija s dodatnim pristupom: %1$s</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="app_restrictions_custom_label">Postavljanje ograničenja aplikacije</string>
   <string name="app_sees_restricted_accounts">Ta aplikacija može pristupiti vašim računima</string>
@@ -962,8 +963,8 @@ Za ograničenje uključite optimizaciju."</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Uključuje se automatski na %1$d%% baterije</string>
   <string name="battery_saver_master_switch_title">Upotreba Štednje baterije</string>
   <string name="battery_saver_off_scheduled_summary">Uključit će se na %1$s</string>
-  <string name="battery_saver_off_summary">Isključeno/%1$s</string>
-  <string name="battery_saver_on_summary">Uključeno/%1$s</string>
+  <string name="battery_saver_off_summary">Isključeno</string>
+  <string name="battery_saver_on_summary">Uključeno</string>
   <string name="battery_saver_schedule_settings_title">Postavite raspored</string>
   <string name="battery_saver_seekbar_title">Na %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Uključi</string>
@@ -998,7 +999,7 @@ Za ograničenje uključite optimizaciju."</string>
   <string name="battery_sugg_radio">Prebacite se na Zrakoplovni način u područjima loše pokrivenosti signalom da uštedite energiju</string>
   <string name="battery_sugg_wifi">"Isključi WLAN ako se ne upotrebljava ili ako nije dostupan"</string>
   <string name="battery_suggestion_title">Poboljšajte trajanje baterije telefona</string>
-  <string name="battery_summary">%1$d%% potrošnje od posljednjeg potpunog punjenja</string>
+  <string name="battery_summary">%1$s potrošnje od posljednjeg potpunog punjenja</string>
   <string name="battery_tip_dialog_message">"Vaš se telefon upotrebljavao više nego obično. Baterija bi se mogla isprazniti brže nego što očekujete.
 
 Najkorištenije aplikacije %1$d od zadnjeg punjenja:"</string>
@@ -1023,7 +1024,7 @@ Aplikacije:"</string>
 
 Aplikacije:
 %1$s."</string>
-  <string name="battery_tip_smart_battery_summary">Uključite Adaptive Battery</string>
+  <string name="battery_tip_smart_battery_summary">Uključite Upravljanje baterijom</string>
   <string name="battery_tip_smart_battery_title">Poboljšajte trajanje baterije telefona</string>
   <string name="battery_tip_summary_summary">Telefon troši bateriju u pozadini uobičajenom brzinom</string>
   <string name="battery_tip_summary_title">Aplikacije se izvode na uobičajen način</string>
@@ -1203,7 +1204,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_map_request">Zahtjev za pristup porukama</string>
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Odaberite maksimalan broj povezanih Bluetooth audiouređaja</string>
   <string name="bluetooth_max_connected_audio_devices_string">Maksimalan broj povezanih Bluetooth audiouređaja</string>
-  <string name="bluetooth_menu_advanced">Dodatne postavke</string>
+  <string name="bluetooth_menu_advanced">Napredno</string>
   <string name="bluetooth_middle_name">Futrola</string>
   <string name="bluetooth_name_not_set">Bez postavke imena, koristi naziv računa</string>
   <string name="bluetooth_no_devices_found">U blizini nema Bluetooth uređaja.</string>
@@ -2463,8 +2464,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="display_label">Zaslon</string>
   <string name="display_order_text">Poredati prema:</string>
   <string name="display_preview_label">Pregled:</string>
-  <string name="display_settings">Prikaz</string>
-  <string name="display_settings_title">Prikaz</string>
+  <string name="display_settings">Zaslon</string>
+  <string name="display_settings_title">Zaslon</string>
   <string name="display_summary">Mirovanje nakon %1$s neaktivnosti</string>
   <string name="display_summary_example">Mirovanje nakon 10 minuta neaktivnosti</string>
   <string name="display_summary_off">Prilagodljiva je svjetlina isključena</string>
@@ -2512,7 +2513,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dndm_mute_all">Utišaj pozive i poruke</string>
   <string name="dndm_notification">\"Ne ometaj“\ omogućeno</string>
   <string name="dndm_open">Ne ometaj</string>
-  <string name="dndm_repeated_call_setting_title">Ponovite pozivatelje</string>
+  <string name="dndm_repeated_call_setting_title">Ponovljeni pozivi</string>
   <string name="dndm_repeated_call_summary_3min">Ako vas isti pozivatelj nazove ponovno unutar 3 minute, telefon će zazvoniti</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive od istog broja</string>
   <string name="dndm_special_call_setting_group">Iznimke</string>
@@ -2590,11 +2591,11 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="double_tap_power_for_camera_summary">Da biste brzo otvorili kameru, dvaput pritisnite tipku za uključivanje/isključivanje. Funkcionira na svim zaslonima.</string>
   <string name="double_tap_power_for_camera_title">Otvaranje Kamere</string>
   <string name="double_twist_for_camera_mode_summary">Za uključivanje i isključivanje načina za snimanje selfieja u Google fotoaparatu dvaput obrnite fotoaparat dok ste u aplikaciji.</string>
-  <string name="double_twist_for_camera_mode_title">Prebacivanje kamere</string>
+  <string name="double_twist_for_camera_mode_title">Okreni kameru</string>
   <string name="double_twist_for_camera_suggestion_title">Brže snimanje selfieja</string>
   <string name="download_current_rom">Nabavite najnoviju MIUI verziju</string>
   <string name="downloading_description">Preuzimanje…</string>
-  <string name="doze_always_on_summary">Prikazivanje vremena, ikona obavijesti i drugih informacija. Povećana potrošnja baterije.</string>
+  <string name="doze_always_on_summary">Ova značajka povećava potrošnju energije sustava. Isključit će se ako vaš uređaj dulje vrijeme ostane u mraku ili budu primijenjena ograničenja uštede baterije.</string>
   <string name="doze_always_on_title">Uvijek uključeno</string>
   <string name="doze_summary">Aktiviraj zaslon prilikom podizanja uređaja ili primanja obavijesti</string>
   <string name="doze_title">Ambijentalni zaslon</string>
@@ -2781,7 +2782,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enhanced_4g_lte_mode_title_4g_calling">4G pozivanje</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Napredno pozivanje</string>
   <string name="enter_password">Da biste pokrenuli Android, unesite zaporku</string>
-  <string name="enter_pattern">Da biste pokrenuli Android, nacrtajte svoj obrazac</string>
+  <string name="enter_pattern">Da biste pokrenuli Android, nacrtajte svoj uzorak</string>
   <string name="enter_pin">Da biste pokrenuli Android, unesite svoj PIN</string>
   <string name="enterprise_mode">Enterprise način</string>
   <string name="enterprise_privacy_always_on_vpn_device">Aktiviran je uvijek uključeni VPN</string>
@@ -2959,7 +2960,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="filter_notif_all_apps">Aplikacije: sve</string>
   <string name="filter_notif_blocked_apps">Isključeno</string>
   <string name="filter_notif_blocked_channels">Kategorije: isključene</string>
-  <string name="filter_notif_dnd_channels">Kat.: nadjačav. način Ne uzn.</string>
+  <string name="filter_notif_dnd_channels">Kat.: nadjačav. način Ne ometaj.</string>
   <string name="filter_notif_hide_notifications_apps">Nikad na zaključanom zaslonu</string>
   <string name="filter_notif_low_channels">Kategorije: mala važnost</string>
   <string name="filter_notif_no_peeking">Onemogućeno zavirivanje</string>
@@ -3093,7 +3094,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
 
 "</string>
   <string name="font_size_summary1">"Ako je tekst vašeg sustava i dalje premalen, pokušajte "</string>
-  <string name="font_size_summary2"/>
+  <string name="font_size_summary2">Lite način.</string>
   <string name="forbidden_network">(zabranjeno)</string>
   <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacijma zapisivanje na vanjsku pohranu</string>
@@ -6474,7 +6475,7 @@ Da biste upotrebljavali prikačivanje zaslona:
   <string name="search_accessibility_screen_magnification_title">Pokreti za povećavanje;Povećanje</string>
   <string name="search_accessibility_settings">Prečac pristupačnosti</string>
   <string name="search_account_list">Ostali računi;Račun;Računi</string>
-  <string name="search_add_facerecoginition_text">Face unlock;Face recognition</string>
+  <string name="search_add_facerecoginition_text">Otključavanje licem;Prepoznavanje lica</string>
   <string name="search_advanced_settings">Napredne postavke;Wifi;Wifi postavke;WLAN postavke</string>
   <string name="search_airplane">Zrakoplovni način;Zrakoplovni način;Zrakoplovni način;Zrakoplov;Zrakoplov;Let</string>
   <string name="search_airplane_mode">Airplane mode;Aeroplane mode;Flight mode;Airplane;Aeroplane;Flight</string>
