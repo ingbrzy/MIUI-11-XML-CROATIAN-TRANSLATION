@@ -129,7 +129,6 @@
         <item>Poredaj po učestalosti korištenja</item>
         <item>Poredaj po iskor. pros. za pohranu</item>
         <item>Poredaj po vremenu instalacije</item>
-        <item>Prvo prikaži aplikacije koje se mogu deinstalirati</item>
      </string-array>
      <string-array name="sort_type">
         <item>Status</item>
@@ -137,7 +136,6 @@
         <item>Učestalost korištenja</item>
         <item>Iskorišteni prostor za pohranu</item>
         <item>Vrijeme instalacije</item>
-        <item>Aplikacije koje se mogu deinstalirati</item>
      </string-array>
 	 <string-array name="traffic_package_type">
         <item>Mjesečni plan podataka</item>
