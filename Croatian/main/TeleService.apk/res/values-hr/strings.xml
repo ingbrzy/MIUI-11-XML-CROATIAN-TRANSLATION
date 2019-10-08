@@ -1098,6 +1098,7 @@ Audio"</string>
   <string name="fiveg_network_config_type2">Vrsta mrežne konfiguracije[Utor2] :</string>
   <string name="fiveg_plmn_info_list1">PLMN popis podataka[Utor1] :</string>
   <string name="fiveg_plmn_info_list2">PLMN popis podataka[Utor2] :</string>
+  <string name="fiveg_power_secret_code_tip">Upravljajte ovime kroz Sigurnost - Baterija - 5G Štednja baterije</string>
   <string name="fiveg_restrict_dcnr1">Ograniči DCNR[Utor1] :</string>
   <string name="fiveg_restrict_dcnr2">Ograniči DCNR[Utor2] :</string>
   <string name="fiveg_signal_strength1">5G Jačina signala[Utor1] :</string>

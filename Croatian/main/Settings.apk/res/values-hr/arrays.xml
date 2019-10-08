@@ -711,12 +711,12 @@
     <string-array name="screen_optimize_title">
         <item>Automatski kontrast</item>
         <item>Povećani kontrast</item>
-        <item>Standardno</item>
+        <item>Izvorna boja</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Optimiziranje kontrasta za dostupnim svjetlom</item>
         <item>"Povećanje kontrasta zaslona"</item>
-        <item>Kontrast će ostati konstantan</item>
+        <item>Vrati izvornu boju sadržaja zaslona kalibracijom boja</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Dopusti</item>

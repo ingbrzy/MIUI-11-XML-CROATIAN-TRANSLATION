@@ -852,6 +852,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="gxzw_area">Skener otiska prsta</string>
   <string name="gxzw_long_press_tip">Pritisnite i držite da biste provjerili nove značajke</string>
   <string name="gxzw_press_harder">Pritisnite malo jače</string>
+  <string name="gxzw_quick_close">Zatvori</string>
   <string name="gxzw_quick_open_add_event">Dodajte događaj</string>
   <string name="gxzw_quick_open_add_event_sub">Kalendar</string>
   <string name="gxzw_quick_open_alipay_pay">Šifra plaćanja</string>
@@ -863,6 +864,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="gxzw_quick_open_search">Traži</string>
   <string name="gxzw_quick_open_search_sub">Preglednik</string>
   <string name="gxzw_quick_open_skip_teach">Preskoči tutorijal</string>
+  <string name="gxzw_quick_open_title">Izbornik prečaca je otvoren</string>
   <string name="gxzw_quick_open_wechat_pay">Šifra plaćanja</string>
   <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
   <string name="gxzw_quick_open_wechat_scan">Skener</string>

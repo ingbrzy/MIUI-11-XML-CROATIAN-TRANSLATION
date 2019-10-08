@@ -46,14 +46,20 @@ Za dodatna pitanja pogledajte Pomoć."</string>
   <string name="help_page_text_11">Korak 3</string>
   <string name="help_page_text_12">Odaberite vanjski uređaj s popisa dostupnih uređaja da biste započeli emitiranje.</string>
   <string name="help_page_text_13">"Nije moguće povezivanje s vanjskim uređajem?"</string>
-  <string name="help_page_text_14">"1. Millet TV screencast, please upgrade the Wireless Screening application in the TV application list to the latest version. 
-2. You can try to connect your phone to your TV to the same LAN to increase your connection success rate. However, some routers may not be able to provide a stable connection environment for the screen, resulting in no connection or frequent interruption. 
-3. If you're using Mi TV, turning on Bluetooth might improve the connection. 
-4. If there aren't any WLAN networks available, make sure your external device (e.g. TV) supports Miracast functionality. The names of casting features on your external device may vary depending on the brand of your device. Refer to the information below to learn about Miracast functionality on different devices."</string>
+  <string name="help_page_text_14">"1. Millet TV screencast, nadogradite aplikaciju Wireless Screening na popisu TV aplikacija na najnoviju verziju.
+2. Možete pokušati spojiti telefon i televizor na istu WLAN mrežu da biste povećali stopu uspjeha veze. Međutim, neki usmjerivači možda neće moći osigurati stabilno okruženje veze za ekran, što rezultira neuspjelu vezu ili česte prekide.
+3. Ako koristite Mi TV, uključivanje Bluetooth-a moglo bi poboljšati vezu. 
+4. Ako nema dostupnih WLAN mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima
+."</string>
+  <string name="help_page_text_14_global">"1. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona. Ako nema dostupnih WLAN mreža ili ne možete povezati oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vanjskom monitoru ažurirane, uključite Bluetooth i na vašem telefonu i na vanjskom monitoru, i uključite Miracast na televizoru.
+2. Ako prvi put emitirate na Xiaomi uređaj, morate završiti provjeru.
+3. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različitim uređajima</string>
   <string name="help_page_text_16">Mi TV/Mi Projector</string>
-  <string name="help_page_text_17">"Xiaomi mobile phone can directly connect to most of the Xiaomi TV with Bluetooth tooth function, instead of manually opening the Miracast function.
-If you need to manually open the Miracast function, you can press the [Menu] button of the TV remote control to select me on the TV screen. Applications &gt; Wireless Screening &gt; Millet / Android Miracas."</string>
+  <string name="help_page_text_17">"Xiaomi mobilni telefon može se izravno povezati s većinom Xiaomi TV-a s Bluetooth funkcijom, umjesto da ručno otvorite Miracast funkciju.
+Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] na daljinskom upravljaču TV-a da biste odabrali TV a zaslonu. Aplikacije &gt; Wireless Screening &gt; Millet / Android Miracast."</string>
   <string name="help_page_text_17_1">Xiaomi korisnička podrška: 400-100-5678</string>
   <string name="help_page_text_18">Samsung TV</string>
   <string name="help_page_text_19">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima možete pritisnuti tipku [SOURCE] na daljinskom upravljaču i zatim odaberite \"Screen Mirroring\". Ova je značajka standardno uključena na različitim modelima.</string>
@@ -93,6 +99,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_53">LeTV customer service phone: 10109000</string>
   <string name="help_page_text_55">"Ako nema dostupnih Wi-Fi mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi značajki emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima.
 4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
+  <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string> 
   <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
   <string name="notification_rc_desc">The best TV Assistant for your mobile to cast video, photo and application to XiaoMi Box (or TV), just try it now!</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>

@@ -52,11 +52,14 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_find_device_off">Isključeno</string>
   <string name="cloud_find_device_on">Uključeno</string>
   <string name="cloud_lab_title">Cloud Lab</string>
+  <string name="cloud_storage_already_full">Cloud pohrana je puna: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Iskorišteno: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">Cloud pohrana</string>
   <string name="cloud_storage_info_type_drive">Mi Drive</string>
   <string name="cloud_storage_info_type_duokan">Duokan</string>
   <string name="cloud_storage_info_type_others">Ostalo</string>
   <string name="cloud_storage_info_type_pdc">Postavke sustava</string>
+  <string name="cloud_storage_loading_data">Samo trenutak…</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
