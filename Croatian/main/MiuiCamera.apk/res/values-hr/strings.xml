@@ -431,6 +431,9 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="live_sticker_fragment_tab_name">Naljepnice</string>
   <string name="live_sticker_network_error_hint">Pogreška mreže</string>
   <string name="live_sticker_updating">Ažuriranje…</string>
+  <string name="location_permission_des">Zapamti lokacije za fotografije i videozapise</string>
+  <string name="location_permission_not_ask_again">Dopustite Kameri pristup vašoj lokaciji u Postavkama.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">Dopusti</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
@@ -521,6 +524,10 @@ izgledaju veće na fotografijama"</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"Kamera ne radi u podijeljenom zaslonu"</string>
+  <string name="network_access_user_notice_agree">Agree</string>
+  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati s internetom za pružanje efekata, glazbe i ostalih funkcija za kratke videozapise.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
+  <string name="network_access_user_notice_message_sticker">"Kamera se treba povezati s internetom kako bi se osigurale naljepnice za ovu značajku.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na Internet kako bi se osigurala funkcionalnost govora u tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
   <string name="network_access_user_notice_title">Povezivanje na internet</string>
   <string name="no_save">"Ne spremaj"</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
@@ -1003,7 +1010,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="preparing_sd">Provjera unutarnje pohrane…</string>
   <string name="recommend_macro_mode">Isprobajte Macro način</string>
   <string name="recommend_portrait">Isprobajte Portretni način</string>
-  <string name="recommend_soft_light_tip">Uključi bljeskalicu</string>
   <string name="recommend_super_night">Isprobajte Noćni način</string>
   <string name="qq_details">QQ datalji:</string>
   <string name="qr_code_details">Detalji QQ koda:</string>
@@ -1111,7 +1117,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD je isklj.</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD je uklj.</string>
   <string name="ultra_pixel_portrait_hint">HD portret</string>
-  <string name="ultra_pixel_portrait_hint">Ultra-clear portret</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Zumiranje ne radi u %s Ultra HD načinu"</string>
   <string name="ultra_tele_use_hint_text_body">"Koristite 50X zoom za što detaljnije 
 snimanje udaljenih objekata"</string>
