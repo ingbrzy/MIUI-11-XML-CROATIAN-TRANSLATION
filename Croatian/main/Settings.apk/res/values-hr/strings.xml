@@ -6284,6 +6284,9 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_dark_mode_smart_dark_title">Globalni tamni način</string>
   <string name="screen_dark_mode_time_title">Raspored</string>
   <string name="screen_effect">Kontrast &amp; boje</string>
+  <string name="screen_fps_summary">Veća brzina osvježavanja čini sliku glatkijom, dok niža brzina osvježavanja štedi bateriju</string>
+  <string name="screen_fps_title">Brzina osvježavanja</string>
+  <string name="screen_fps_unit">%d Hz</string>
   <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Pokreni funkciju</string>
   <string name="screen_key_long_press_timeout">Postavi vrijeme dugog pritiska</string>
@@ -6299,8 +6302,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_monochrome_mode_global_title">Sve aplikacije</string>
   <string name="screen_monochrome_mode_local_summary">Koristi monokromatski način rada za odabrane aplikacije</string>
   <string name="screen_monochrome_mode_local_title">Odabrane aplikacije</string>
-  <string name="screen_monochrome_mode_off_apps_title">"Nemoj koristiti monokromatski način rada"</string>
-  <string name="screen_monochrome_mode_range_title">Range</string>
+  <string name="screen_monochrome_mode_off_apps_title">"Ne koristi monokromatski način rada"</string>
+  <string name="screen_monochrome_mode_range_title">Raspon</string>
   <string name="screen_monochrome_mode_set_apps_title">Aplik. u monokromatskom načinu rada</string>
   <string name="screen_monochrome_mode_summary">Prebaci na monokromatski način rada da produljite vijek trajanja baterije</string>
   <string name="screen_monochrome_mode_title">Monokromatski način rada</string>
@@ -6318,7 +6321,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_hdr_toast_new">Način čitanja automatski će se isključiti tijekom reprodukcije HDR videozapisa i provjere otiska prsta. Vaš uređaj će se vratiti na način čitanja kada se te radnje dovrše.</string>
   <string name="screen_paper_mode_local_summary">Koristi Način čitanja za odabrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Odabrane aplikacije</string>
-  <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja"</string>
+  <string name="screen_paper_mode_off_apps_title">"Ne koristi Način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
   <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
   <string name="screen_paper_mode_summary">"Način čitanja čini boje vašeg zaslona toplijima, omogućujući vašim očima da se opuste."</string>

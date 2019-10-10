@@ -53,12 +53,12 @@
         <item quantity="one">Vikend: %d min.</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">Vikend: %d sati</item>
-        <item quantity="one">Vikend: %d sat</item>
+        <item quantity="other">Radni dani: %d sati</item>
+        <item quantity="one">Radni dan: %d sat</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Vikend: %d min.</item>
-        <item quantity="one">Vikend: %d min.</item>
+        <item quantity="other">Radni dani: %d min.</item>
+        <item quantity="one">Radni dan: %d min.</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" sati"</item>
