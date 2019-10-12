@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_missing_private_key">Za instaliranje certifikata potreban je privatni ključ</string>
+  <string name="action_missing_user_cert">Za instaliranje privatnog ključa potreban je certifikat</string>
   <string name="app_name">Alat za instaliranje certifikata</string>
   <string name="cert_is_added">%s je instaliran.</string>
   <string name="cert_missing_error">Ne mogu instalirati jer nije bilo moguće locirati datoteku certifikata.</string>
@@ -37,6 +39,7 @@
   <string name="sdcard_not_present">"USB pohrana nije dostupna."</string>
   <string name="storage_error">"Ne mogu spremiti certifikat. Dodirnite U redu za ponovni pokušaj."</string>
   <string name="unable_to_save_cert">"Nije bilo moguće spremiti certifikat. Pohranjivanje vjerodajnica nije omogućeno ili nije ispravno pokrenuto."</string>
+  <string name="userkey_type">Algoritam:</string>
   <string name="wifi_cancel_label">Odustani</string>
   <string name="wifi_config_text">"Naziv: %1$s
 FQDN: %2$s

@@ -289,7 +289,7 @@
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="activity_launch_on_secondary_display_failed_text">Aplikacija ne podržava pokretanje na sekundarnim zaslonima.</string>
   <string name="activity_not_found">Aplikacija nije instalirana na vašem uređaju</string>
-  <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
+  <string name="adb_keys_warning_message">Želite li opozvati pristup otklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
   <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
   <string name="add_tile">Dodavanje pločice</string>
@@ -683,8 +683,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="enable_extreme_power_save_mode">Ekstremna Štednja baterije</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
   <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
-  <string name="enable_gpu_debug_layers">Omogući slojeve za uklanjanje pogrešaka GPU-a</string>
-  <string name="enable_gpu_debug_layers_summary">Omogući učitavanje slojeva za ukl. pogrešaka GPU-a za uklanjanje pogrešaka aplikacija</string>
+  <string name="enable_gpu_debug_layers">Omogući slojeve za otklanjanje pogrešaka GPU-a</string>
+  <string name="enable_gpu_debug_layers_summary">Omogući učitavanje slojeva za otkl. pogrešaka GPU-a za otklanjanje pogrešaka aplikacija</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_power_save_mode">Uključi Štednju baterije</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
@@ -2241,6 +2241,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_scan_throttling">WLAN skeniranje prigušivanja</string>
+  <string name="wifi_scan_throttling_summary">Smanjuje pražnjenje baterije &amp; poboljšava performanse mreže</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ništa</string>

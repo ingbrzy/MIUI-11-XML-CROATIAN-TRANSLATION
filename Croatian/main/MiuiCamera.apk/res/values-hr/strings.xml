@@ -61,6 +61,8 @@
   <string name="accessibility_more">Više</string>
   <string name="accessibility_more_ptions_closed">Više opcija onemogućene</string>
   <string name="accessibility_more_ptions_opened">Više opcija omogućene</string>
+  <string name="accessibility_mimovie_off">Način rada film je isključen</string>
+  <string name="accessibility_mimovie_on">Način rada film je uključen</string>
   <string name="accessibility_open">Uključeno</string>
   <string name="accessibility_open_more_ptions">Omogući više opcija</string>
   <string name="accessibility_panorama_review_cancel">Odustani</string>
@@ -160,6 +162,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="cloud_album_details">Detalji Cloud albuma:</string>
   <string name="color_effect_entry_berry">Voće</string>
   <string name="color_effect_entry_blackwhite">B&amp;W</string>
+  <string name="color_effect_entry_classic">Klasika</string>
   <string name="color_effect_entry_cookie">Kolač</string>
   <string name="color_effect_entry_delicacy">Gourmet</string>
   <string name="color_effect_entry_fade">Izblijedi</string>
@@ -183,6 +186,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="config_name_group">Grupni selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magija</string>
+  <string name="config_name_mimovie">Film</string>
   <string name="config_name_scene">Scena</string>
   <string name="config_name_setting">Postavke</string>
   <string name="config_name_sound">Zvuk</string>
@@ -372,6 +376,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hint_groupshot">"Kamera će snimati više fotografija
   a zatim izraditi snimku na kojoj svi izgledaju najbolje."</string>
   <string name="hint_groupshot_beauty">Ne mogu koristiti uljepšanje kod grupne fotografije</string>
+  <string name="hint_mimovie">Snimajte u pejzažnom načinu za najbolji učinak</string>
   <string name="hint_slow_motion">Videozapis koji snimate reproducirat će se sporije.</string>
   <string name="hunt_dual_water_mark">Oznaka Dvostruke kamere biti će dodana automatski.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>

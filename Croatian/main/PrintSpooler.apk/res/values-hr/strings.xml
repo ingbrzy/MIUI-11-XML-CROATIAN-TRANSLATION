@@ -112,6 +112,7 @@
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Postav. element sa trenutnom upotrebom procesora</string>
   <string name="summary_template">Sažetak, kopije %1$s, veličina papira %2$s</string>
+  <string name="system_print_service_help">O usluzi ispisa</string>
   <string name="template_all_pages">Sve stranice (%1$s)</string>
   <string name="template_page_range">Raspon od %1$s</string>
   <string name="wifi_direct">Izravni WLAN</string>
