@@ -300,7 +300,6 @@ za videozapise"</string>
   <string name="lbl_player_response_failed_alert_dialog_text">"Nažalost, vaš zahtjev trenutno nije moguće ispuniti. Pokušajte ponovo nakon nekog vremena."</string>
   <string name="lbl_setting_playback_streaming_auto">Auto</string>
   <string name="lbl_url_alert">Info</string>
-  <string name="library_roundedimageview_author">Vince Mi</string>
   <string name="library_roundedimageview_libraryDescription">Brzi ImageView (i crtajući) koji podržava zaobljene kutove (i ovale ili krugove) na temelju originalnog primjera Romaina Guya.</string>
   <string name="loading">Samo trenutak…</string>
   <string name="logging_normal">Normalno</string>
