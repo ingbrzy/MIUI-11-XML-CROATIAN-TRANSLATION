@@ -765,9 +765,13 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovno"</string>
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_HIPS_Perm_Location_Desc">dobiti točnu lokaciju (GPS i mreža)</string>
+  <string name="cta_close_dialog_cancel">Odustani</string>
+  <string name="cta_close_dialog_content">"Ograničite li aplikaciji Sigurnost pristup internetu i informacijama o vašoj lokaciji, nećete moći primati upozorenja o potresu, ažurirati definicije virusa i informacije liste blokiranih. Vaš će uređaj postati manje siguran. Svejedno ograničiti?"</string>
+  <string name="cta_close_dialog_ok">Ograniči</string>
+  <string name="cta_close_dialog_title">Ograničavanje pristupa</string>
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
-  <string name="cta_settings">Dopusti povezivanje s internetom</string>
+  <string name="cta_settings">Dopusti povezivanje s internetom i pristup lokaciji</string>
   <string name="cta_main_purpose">Dobrodošli u Sigurnost! Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama i još mnogo toga.</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
@@ -1752,7 +1756,7 @@ podatkovnu vezu"</string>
   <string name="mixed_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="mixed_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
   <string name="mixed_pattern_entered_header">Zaporka uspješno postavljena</string>
-  <string name="mixed_recording_intro_header">Unesite barem 4 znaka</string>
+  <string name="mixed_recording_intro_header">Unesite od %1$s-%2$s znaka</string>
   <string name="mixed_retry_button_text">Odustani</string>
   <string name="mixed_settings_help_how_to_record">Kako postaviti zaporku</string>
   <string name="modify_password_mode">Promjeni vrstu zaporke</string>

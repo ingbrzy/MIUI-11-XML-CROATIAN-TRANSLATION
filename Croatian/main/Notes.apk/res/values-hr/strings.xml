@@ -185,6 +185,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Izbrišite pomoću gesta</string>
   <string name="pref_title_todo_float_mode">Upotrijebite Alat sa zadacima</string>
   <string name="pref_title_todo_shorcut">Alat sa zadacima</string>
+  <string name="privacy_note_content_empty">Ovdje još nema stavki.</string>
   <string name="privacy_hint">Privatnost</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
   <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>

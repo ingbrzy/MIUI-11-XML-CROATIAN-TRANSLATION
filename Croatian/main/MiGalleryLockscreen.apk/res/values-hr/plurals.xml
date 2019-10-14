@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <plurals name="lockscreen_magazine_subscribe">
+     <plurals name="lockscreen_magazine_subscribe">
          <item quantity="other">Sljedbenika: %1$s</item>
          <item quantity="one">%1$s sljedbenik</item>
      </plurals>
@@ -9,16 +9,16 @@
          <item quantity="one">%1$s slika pozadine</item>
      </plurals>
 	 <plurals name="llks_tools_remote_control_data">
-        <item quantity="other">Stavke: %d</item>
-        <item quantity="one">%d stavka</item>
+        <item quantity="other">Stavke: %s</item>
+        <item quantity="one">%s stavka</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%d uređaja</item>
-        <item quantity="one">%d uređaj</item>
+        <item quantity="other">%s uređaja</item>
+        <item quantity="one">%s uređaj</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
-        <item quantity="other">%d članaka na ovoj temi</item>
-        <item quantity="one">%d članak na ovoj temi</item>
+        <item quantity="other">%s članaka na ovoj temi</item>
+        <item quantity="one">%s članak na ovoj temi</item>
      </plurals>
      <plurals name="time_day_ago">
         <item quantity="other">prije %d dana</item>
@@ -32,4 +32,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije %d min</item>
      </plurals>
+	 <plurals name="wm_cw_count">
+        <item quantity="other">%d slika</item>
+        <item quantity="one">%d slika</item>
+    </plurals>
 </resources>

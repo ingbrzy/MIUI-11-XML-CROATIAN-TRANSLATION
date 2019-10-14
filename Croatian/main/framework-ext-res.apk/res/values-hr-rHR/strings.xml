@@ -84,6 +84,7 @@
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Rad jednom rukom</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na tipku Početna</string>
+  <string name="input_method_clipboard_tips">Kopirane stavke bit će izbrisane iz međuspremnika nakon 48 sati</string>
   <string name="input_method_edit_phrase_text">Uredite česte izraze</string>
   <string name="input_method_no_content_text">Nema još stavki</string>
   <string name="input_method_switch_settings_text">Postavke tipkovnice</string>
