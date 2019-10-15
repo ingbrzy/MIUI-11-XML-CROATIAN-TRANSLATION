@@ -156,7 +156,7 @@
   <string name="date_today">" (danas) "</string>
   <string name="day_picker_description">Mjesečna rešetka dana</string>
   <string name="day_view">Dan</string>
-  <string name="day_view_new_event_hint">+ Novi događaj</string>
+  <string name="day_view_new_event_hint">Novi događaj</string>
   <string name="default_reminder_later_time">Zadani interval za \"Podsjeti kasnije\"</string>
   <string name="default_reminder_mode">Podsjetnici</string>
   <string name="delete_calendar">Izbriši</string>
@@ -233,7 +233,7 @@
   <string name="event_info_reminders_label">Podsjetnik</string>
   <string name="event_info_reminders_label_1">Podsjetnik</string>
   <string name="event_info_repeat">Ponovi</string>
-  <string name="event_info_title">Prikaži događaj</string>
+  <string name="event_info_title">Pojedinosti o događaju</string>
   <string name="event_info_title_anniversary">Godišnjica</string>
   <string name="event_info_title_birthday">Rođendan</string>
   <string name="event_info_title_countdown">Odbrojavanje</string>
@@ -336,7 +336,7 @@
   <string name="month_medium_september">Ruj</string>
   <string name="month_view">Mjesec</string>
   <string name="monthly">Mjesečno</string>
-  <string name="monthly_on_day">Mjesečno (na isti datum)</string>
+  <string name="monthly_on_day">Mjesečno (isti datum)</string>
   <string name="monthly_on_day_count">Mjesečno (%1$s)</string>
   <string name="more_string">+%1$d</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
@@ -504,6 +504,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="setting_holiday_reminder">Podsjetnik praznika</string>
   <string name="setting_others">Dodatno</string>
   <string name="setting_title_about">O aplikaciji</string>
+  <string name="setting_show_reject_agenda">Prikaži odbijene događaje</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
   <string name="setting_title_import_todo">Uvezi zadatke</string>
   <string name="shortcut_new_event">Dodaj događaj</string>

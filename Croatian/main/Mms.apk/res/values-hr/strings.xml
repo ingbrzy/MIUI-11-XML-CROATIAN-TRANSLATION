@@ -105,6 +105,7 @@
   <string name="click_to_update">Dodirnite za provjeru ažuriranja</string>
   <string name="click_to_view">Dodirni za prikaz</string>
   <string name="close">Zatvori</string>
+  <string name="cloud_recommend_view_tip">Uključite sinkronizaciju s Mi Cloudom za vraćanje važnih poruka u bilo kojem trenutku</string>
   <string name="cloud_recommend_msg">Dodirnite za sinkr. poruka s Mi Cloudom.</string>
   <string name="cloud_state_disabled">Uključite sinkr. s Mi Cloudom da sinkronizirate poruke</string>
   <string name="cloud_state_sync_finished">Sinkr. s Mi Cloudom</string>
