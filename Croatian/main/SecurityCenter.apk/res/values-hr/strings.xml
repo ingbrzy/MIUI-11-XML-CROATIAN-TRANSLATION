@@ -2747,6 +2747,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="shield_keyboard_detail">Dvaput dodirnite tipke da ih ponovno uključite</string>
   <string name="shield_keyboard_summary">Ograničite tipke i geste punog zaslona tijekom igara</string>
   <string name="shield_keyboard_title">Ograniči tipke i geste</string>
+  <string name="shortcut_title_scan">Skeniraj</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp čistač</string>
   <string name="show_system_app">Prikaži aplikacije sustava</string>
   <string name="show_traffic_dialog_message">Detalji vaše uporabe podataka će biti prikazani u panelu obavijesti. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Uporaba podataka &gt; Postavke</string>
   <string name="show_traffic_dialog_title">Prikaži uporabu u panelu obavijesti</string>

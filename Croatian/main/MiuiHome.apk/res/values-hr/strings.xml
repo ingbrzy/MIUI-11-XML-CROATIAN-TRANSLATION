@@ -3,7 +3,8 @@
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="activity_not_unlocked">Pričekajte da se uređaj potpuno ponovno pokrene prije otvaranja aplikacija</string>
-  <string name="add_screen">Dodaj tipku zaslona</string>
+  <string name="add_screen">Dodaj zaslon</string>
+  <string name="additional_settings">Dodatne postavke</string>
   <string name="all_apps">Sve aplikacije</string>
   <string name="all_apps_no_search_results">"Ne mogu pronaći rezultate"</string>
   <string name="all_apps_search_app">Traži aplikacije</string>
@@ -77,6 +78,7 @@
   <string name="apply_as_lockwallpaper_action">Postavi</string>
   <string name="apply_as_wallpaper">Postavi za Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
+  <string name="apply_text">POSTAVI</string>
   <string name="apply_negative_action">"Odustani"</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
@@ -129,6 +131,11 @@
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
+  <string name="drawer_background">Pozadina</string>
+  <string name="drawer_background_dark">Tamna</string>
+  <string name="drawer_background_light">Svijetla</string>
+  <string name="drawer_background_transparency">Prozirnost pozadine ladice aplikacija</string>
+  <string name="drawer_settings">Ladica aplikacija</string>
   <string name="dual_app">Dvojne aplikacije</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
   <string name="edit_mode_dual_app">Izradi dvojnu aplikaciju</string>
@@ -219,6 +226,7 @@
   <string name="home_gesture_notification_bar">Obavijesti</string>
   <string name="home_pull_down_action">Prijeđite prstom prema dolje na Poč. zaslonu</string>
   <string name="home_screen">Poč. zaslon</string>
+  <string name="home_screen_settings">Poč. zaslon</string>
   <string name="home_slide_up_action">Prijeđite prstom prema gore na Poč. zaslonu</string>
   <string name="icon_reorganize_channel">Raspored ikona</string>
   <string name="image_too_small_message">"Izvorna slika nije dovoljno velika"</string>
@@ -237,6 +245,7 @@
   <string name="liked">Dodano u favorite</string>
   <string name="loading_desktop">Samo trenutak…</string>
   <string name="loading_wallpaper">Samo trenutak…</string>
+  <string name="local_apps">Lokalne aplikacije</string>
   <string name="local_wallpaper">Preuzeto</string>
   <string name="lock_screen">Zaklj. zaslon</string>
   <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
@@ -324,6 +333,7 @@
   <string name="quick_app">Brze aplik.</string>
   <string name="recent_apps">Nedavno</string>
   <string name="recents_config_title">Nedavno</string>
+  <string name="recommend_app">Prijedlozi aplikacija</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
   <string name="recommend_apps_no_data_toast">Nema preporuka za sada.</string>
@@ -344,6 +354,8 @@
   <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan.</string>
   <string name="screen_number">Zaslon %d</string>
+  <string name="search_in_apps_store">Traži \"%1$s\" u %2$s</string>
+  <string name="search_no_result">"Nije moguće pronaći rezultate"</string>
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_frame">Okvir</string>
@@ -361,6 +373,7 @@
   <string name="shortcut_share_dialog_title">Odricanje od odgovornosti</string>
   <string name="show_all">Prikaži sve</string>
   <string name="show_mem_info_title">Prikaži status memorije</string>
+  <string name="show_most_popular_apps_you_used">Prikaži najčešće korištene aplikacije u ladici</string>
   <string name="show_recents_recommend_title">Prikaži prijedloge</string>
   <string name="sort_by_abc">Poredaj po nazivu</string>
   <string name="sort_by_frequency">Poredaj po korištenju</string>
@@ -373,6 +386,7 @@
   <string name="status_paused">Pauzirano</string>
   <string name="status_pending">Na čekanju</string>
   <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
+  <string name="system_text">Sustav</string>
   <string name="title_jeejen">Jeejen Poč. zaslon</string>
   <string name="title_select_live_folder">Odaberite mapu</string>
   <string name="title_select_shortcut">Odaberite prečac</string>

@@ -111,6 +111,7 @@
   <string name="feed_search_fail">Nema rezultata, pokušajte ponovo</string>
   <string name="feedback_description_camera_access">"Skener se ne može povezati s Kamerom"</string>
   <string name="feedback_description_save_photo">"Ne mogu spremiti fotografiju ili video"</string>
+  <string name="flight_mode_connecting_to_wifi">Uključite WLAN ručno kada je Zrakoplovni način uključen</string>
   <string name="flash_lable">Bljeskalica</string>
   <string name="got_it">Razumijem</string>
   <string name="gps">Navigacija</string>

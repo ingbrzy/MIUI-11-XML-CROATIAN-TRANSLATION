@@ -165,6 +165,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="international_details_wind_title">VJETAR</string>
   <string name="international_version_first_start_network_msg">Upotrebom ove aplikacije pristajete na Xiaomi %1$s i %2$s. Ova aplikacija koristi internetsku vezu.</string>
   <string name="it_is_going_to_rain">Padati će kiša</string>
+  <string name="life_index_title">Vremenski indeks</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_management">Lokacije</string>
@@ -227,7 +228,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="privacy_settings">Pravila o Privatnosti</string>
   <string name="pull_fresh_updated">Uspješno ažurirano</string>
   <string name="pull_fresh_updating">Ažuriranje…</string>
-  <string name="radar_cloud_image_title">Mapa Radara</string>
+  <string name="q_version_location_provider_btn_text">Uključite pristup lokaciji i poboljšajte preciznost lokacije</string>
+  <string name="radar_cloud_image_title">Mapa radara</string>
   <string name="radar_cloud_update_time">Prije %1$s</string>
   <string name="rainfall_settings_summary">Postavke padalina</string>
   <string name="rainfall_settings_title">Upozorenje padalina</string>
@@ -237,6 +239,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="realtime_humidity_title">Vlaga</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vjetar</string>
+  <string name="refresh_empty_data">"Ne mogu učitati podatke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="reminder_from_xiaomi_weather_app">Upozorenja aplikacije Vrijeme</string>
   <string name="request_permission_location_dialog_content">Za prikaz informacija o vremenu relevantnim za vašu trenutnu lokaciju</string>
@@ -283,6 +286,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="updating">Ažuriranje…</string>
   <string name="user_agreement">Korisnički Sporazum</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
+  <string name="view_indexes_item_day_after_tommorrow">Za 2 dana</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
   <string name="warning_weather_day_and_night_settings_summary">Primanje dnevnih sažetaka koji sadrže informacije o vremenu u 7:00 i 19:00</string>
