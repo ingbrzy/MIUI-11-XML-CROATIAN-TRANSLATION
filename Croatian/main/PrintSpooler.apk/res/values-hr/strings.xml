@@ -17,6 +17,8 @@
   <string name="collapse_handle">Ručica za sažimanje</string>
   <string name="connectio_delay_content">Možda ćete morati potvrditi vezu na pisaču.</string>
   <string name="connectio_help_title">Povezivanje s pisačem</string>
+  <string name="copies_decrease">Minus jedan primjerak</string>
+  <string name="copies_increase">Plus jedan primjerak</string>
   <string name="could_not_create_file">Izrada datoteke nije uspjela</string>
   <string name="delete_saved_printer_content">Želite li izbrisati odabrane pisače?</string>
   <string name="destination_default_text">Odaberite pisač</string>

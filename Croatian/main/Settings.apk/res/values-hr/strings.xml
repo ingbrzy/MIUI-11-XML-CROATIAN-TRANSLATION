@@ -4784,6 +4784,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (preporučeno)</string>
+  <string name="network_alarm">"Ne utišavaj internetske pozive"</string>
+  <string name="network_alarm_summary">"Napomena: Neke aplikacije nisu kompatibilne s ovom značajkom.%1$s"</string>
+  <string name="network_alarm_summary_reg">Pogledajte podržane aplikacije</string>
+  <string name="network_alarm_support_apps">Podržane aplikacije</string>
   <string name="network_assistant">Uporaba podataka</string>
   <string name="network_changed_noti_summary">Uporaba mobilnih podataka</string>
   <string name="network_changed_noti_title">Prekinuta veza s WLAN-om</string>
@@ -8983,6 +8987,7 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="webview_disabled_for_user">(onemogućeno za korisnika %s)</string>
   <string name="webview_license_title">WebView licenca sustava</string>
   <string name="webview_uninstalled_for_user">(deinstalirano za korisnika %s)</string>
+  <string name="wechat">WeChat</string>
   <string name="weight_heavy">Bold</string>
   <string name="weight_light">Tanak</string>
   <string name="weight_setting_toast">Debljinu fonta možete promijeniti samo za zadani font sustava</string>

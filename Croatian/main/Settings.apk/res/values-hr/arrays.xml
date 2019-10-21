@@ -134,6 +134,13 @@
         <item>1 sat</item>
         <item>Nikada ne istječe</item>
     </string-array>
+	    <string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogućeno</item>
+        <item>Omogućeno filtrirano</item>
+        <item>Omogućena filtrirana zaglavlja</item>
+        <item>Omogućeno filtrirani paketi medija</item>
+        <item>Omogućeno</item>
+    </string-array>
     <string-array name="wifi_signal">
         <item>Loše</item>
         <item>Solidan</item>
@@ -522,6 +529,11 @@
         <item>Najviše 2 procesa</item>
         <item>Najviše 3 procesa</item>
         <item>Najviše 4 procesa</item>
+    </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Isključeno</item>
+        <item>Debug</item>
+        <item>Verbose</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>

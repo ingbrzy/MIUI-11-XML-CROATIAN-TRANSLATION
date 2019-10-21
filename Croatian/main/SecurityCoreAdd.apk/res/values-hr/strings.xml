@@ -466,7 +466,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_default_setting_label">Zadana aplik.</string>
   <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Koristi 2 računa bez mijenjanja</string>
+  <string name="xspace_disable">Nije izrađeno</string>
+  <string name="xspace_enable">Izrađeno</string>
+  <string name="xspace_guide_des">Koristi 2 računa bez promjene</string>
   <string name="xspace_guide_title">Izradi dvojnu aplikaciju</string>
   <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_instagram_title">Instagram</string>
@@ -477,9 +479,12 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_introduce">Preporučeno</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Učitavanje aplikacija…</string>
+  <string name="xspace_notification">Obavijesti dvojnih aplikacija</string>
+  <string name="xspace_notification_error">Prijavite se na dvojni WeChat i pokušajte ponovo</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">"Izbriši račune dvojnih aplikacija"</string>
   <string name="xspace_setting_label">Postavke dvojne aplikacije</string>
+  <string name="xspace_settins">Postavi</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspješno deinstalirana</string>
   <string name="xspace_uninstall_dialog_content">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Deinstaliraj dvojnu aplikaciju</string>
