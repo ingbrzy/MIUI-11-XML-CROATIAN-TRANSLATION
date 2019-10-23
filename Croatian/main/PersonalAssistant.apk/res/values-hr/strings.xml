@@ -76,7 +76,7 @@
   <string name="card_expand_note_clear">Očisti</string>
   <string name="card_expand_note_clear_all">Očisti</string>
   <string name="card_expand_note_dialog_button">Razumijem</string>
-  <string name="card_expand_note_dialog_message">Nova je bilješka izrađena svaki put kad dodirnete tipku \"Spremi\" U Zaklj. aplikacija.</string>
+  <string name="card_expand_note_dialog_message">Nova je bilješka izrađena svaki put kad dodirnete tipku \"Spremi\" u Zaklj. aplikacija.</string>
   <string name="card_expand_note_dialog_title">Spremanje bilješke</string>
   <string name="card_expand_note_sure_clear_all">Očisti sad</string>
   <string name="card_expand_note_toast_clear_null">Uspješno očišćeno</string>
@@ -142,7 +142,7 @@
   <string name="corpus_hint_apps">Pretraživanje aplikacije</string>
   <string name="corpus_label_apps">Aplikacije</string>
   <string name="cta_desc">"Idealno je za prečace, informacije i vaše omiljene značajke"</string>
-  <string name="cta_dialog_miot_text_all">Da se osigur da funkcionira normalno, Mi Home možda treba nabaviti vašu mrežu, lokaciju, autorizaciju za uključivanje Bluetooth veze, korištenje mobilne mreže, mikrofona i čitanje kontakata. Dopustiti?</string>
+  <string name="cta_dialog_miot_text_all">Da se osigura da funkcionira normalno, Mi Home možda treba nabaviti vašu mrežu, lokaciju, autorizaciju za uključivanje Bluetooth veze, korištenje mobilne mreže, mikrofona i čitanje kontakata. Dopustiti?</string>
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_text_all">Prije korištenja Zaklj. aplikacija, trebali biste pročitati i složiti se s %1$s\"Korisnički Sporazum\" %2$s i %3$s \"Pravila o Privatnosti\" %4$s. Usluga također zahtijeva internetsku vezu i pristup uslugama lokacije. Dobivanje sadržaja koje koriste neke usluge također zahtijeva internetsku vezu. Slažete se?</string>
@@ -457,7 +457,7 @@
   <string name="preload_empty">Ovdje još nema stavki. Povuci dolje za osvježiti.</string>
   <string name="qq_new">Novi status</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quick_app_setting_brief">Povuci dolje u Zaklj. aplikacija da biste vidjeli nedavno korištenih brze aplikacije</string>
+  <string name="quick_app_setting_brief">Povuci dolje u Zaklj. aplikacija da biste vidjeli nedavno korištene brze aplikacije</string>
   <string name="quick_app_setting_brief_detail">"Pregledajte sve brze aplikacije koje ste nedavno koristili"</string>
   <string name="quick_app_title">Nedavne brze aplikacije</string>
   <string name="quickstart_accessibility_description">"Zaklj. aplikacija omogućuje prečace za odabrane aplikacije trećih strana. Ovi prečaci neće raditi ako isključite značajku."</string>

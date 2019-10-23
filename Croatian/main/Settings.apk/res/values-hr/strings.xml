@@ -302,6 +302,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="add_account_label">Dodavanje računa</string>
   <string name="add_auto_startup_application">Dodaj aplikaciju</string>
   <string name="add_back_fingerprint_instruction_msg">Stavite prst na senzor</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Senzor otiska prsta nalazi se na desnom rubu uređaja</string>
   <string name="add_device_admin">Aktiviraj</string>
   <string name="add_device_admin_msg">Aktivirati apl. administratora uređaja?</string>
   <string name="add_facerecoginition_text">Dodaj lice</string>
@@ -1239,6 +1240,12 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
   <string name="bluetooth_incoming_pairing_msg">Od:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Upariti se s ovim uređajem?</string>
+  <string name="bluetooth_inform_messgae">"Nije moguće povezivanje s %1$s.
+Evo što može biti pogrešno:
+1. Bluetooth je na ovom uređaju isključen ili mu je izvan dosega.
+2. Ovaj uređaj nije vidljiv drugim uređajima.
+3. Uređaj je povezan s drugim uređajima. Prekinite vezu i pokušajte ponovo."</string>
+  <string name="bluetooth_inform_messgae_title">"Ne mogu povezati"</string>
   <string name="bluetooth_is_disconnect_question">Želite li prekinuti vezu s uređajem %1$s?</string>
   <string name="bluetooth_is_discoverable">Vidljivo svim Bluetooth uređajima u blizini (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Vidljivo svim Bluetooth uređajima u blizini</string>
@@ -4151,7 +4158,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
   <string name="lockscreen_label">Zaklj. zaslon</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
-  <string name="lockscreen_magazine_summary">Wallpaper carousel visoka kvaliteta</string>
+  <string name="lockscreen_magazine_summary">Zapanjujuće slike i uzbudljive priče koje vam donosimo svakodnevno</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Spriječi unos odgovora ili drugog teksta u obavijesti kada je uređaj zaključan</string>
   <string name="lockscreen_settings_title">Na zaključanom zaslonu</string>

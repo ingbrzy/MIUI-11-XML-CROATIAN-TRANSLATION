@@ -721,14 +721,24 @@
         <item>Standardno</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Automatski kontrast</item>
-        <item>Povećani kontrast</item>
-        <item>Izvorna boja</item>
+        <item>Automatski (preporuka)</item>
+        <item>Zasićeno</item>
+        <item>Standardno</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimiziranje kontrasta za dostupnim svjetlom</item>
-        <item>"Povećanje kontrasta zaslona"</item>
-        <item>Vrati izvornu boju sadržaja zaslona kalibracijom boja</item>
+        <item>Prilagodi boje na temelju trenutnog osvjetljenja</item>
+        <item>Uvijek pojačaj boje</item>
+        <item>Kontrast će ostati konstantan</item>
+    </string-array>
+	<string-array name="true_color_screen_optimize_summary">
+        <item>Prilagodi boje na temelju trenutnog osvjetljenja</item>
+        <item>Uvijek pojačaj boje</item>
+        <item>Vrati standardnu boju sadržaja zaslona sa kalibracijom boja</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Automatski (preporuka)</item>
+        <item>Zasićeno</item>
+        <item>Originalna boja</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Dopusti</item>

@@ -313,6 +313,9 @@
   <string name="preference_settings">Postavke</string>
   <string name="preference_use_degress_summary">Zamjenski radijani s kutovima u trigonometrijskim funkcijama</string>
   <string name="preference_use_degress_title">Koristi kutove</string>
+  <string name="preference_use_voice_summary">Uključite da biste koristili govorni izlaz tijekom izračuna</string>
+  <string name="preference_use_voice_title">Govorni izlaz</string>
+  <string name="preference_user_feedback_title">Povratna inf.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="rate_data_provider">Kamate su osigurane od strane hexun.com</string>
   <string name="reciprocalDesc">Recipročan</string>
@@ -585,6 +588,7 @@
   <string name="view_float_window_move">Pomakni umanjeni Kalkulator</string>
   <string name="user_manual">Upute</string>
   <string name="voiceDesc">Glasovne kontrole</string>
+  <string name="voice_guide_text">Ovdje možete uključiti govorni izlaz</string>
   <string name="web_sso_login_fail">Morate se prijaviti ponovno</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Web stranica</string>

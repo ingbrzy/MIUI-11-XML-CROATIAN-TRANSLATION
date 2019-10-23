@@ -2549,32 +2549,45 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
-  <string name="wifi_call_accept">U redu</string>
+  <string name="wifi_call_accept">Preskoči</string>
   <string name="wifi_call_available_message">"Sada možete upućivati pozive putem WLAN-a. Ako ste povezani s WLAN mrežom, moći ćete razgovarati čak i kad se nalazite u područjima koja nemaju pokrivenost mobilnom mrežom."</string>
   <string name="wifi_call_available_title">Uključivanje WLAN poziva</string>
-  <string name="wifi_call_cancel">Odustani</string>
+  <string name="wifi_call_cancel">Više informacija</string>
   <string name="wifi_call_help">Pomoć</string>
-  <string name="wifi_call_help_message">"Ako odaberete preferirane mobilne mreže, mobilne će se mreže koristiti za pozive prema zadanim postavkama. U slučaju kada nema signala mobilne mreže ili je jako loša, umjesto toga koristiti će se WLAN mreža."</string>
+  <string name="wifi_call_help_message_1">"WLAN Pozivi je usluga koju pruža Orange i koja omogućuje upućivanje i primanje poziva putem WLAN-a. Ova se značajka može koristiti u područjima s slabom pokrivenosti mobilne mreže.
+
+Da biste koristili WLAN Pozive, uključite ga u Postavke &gt; WLAN Pozivi.
+
+Da biste aktivirali uslugu, Orange će vam poslati poruku s potvrdom čim usluga bude dostupna. Nakon toga moći ćete se povezati s WLAN mrežom i upućivati pozive.
+
+Pozivi upućeni putem WLAN-a naplaćuju se prema uvjetima vašeg mjesečnog prometa.
+
+Kad god je ova značajka dostupna, sljedeća ikona bit će prikazana na vrhu zaslona."</string>
+  <string name="wifi_call_help_message_2">"Ako odaberete preferiranu WLAN mrežu, ona će se prema zadanim postavkama koristiti za telefonske pozive. U slučaju da niste povezani na WLAN ili je signal loš, za pozive će se koristiti mobilne mreže.
+
+Ako odaberete preferiranu mobilnu mrežu, ona će se prema zadanim postavkama koristiti za telefonske pozive. U slučaju da nema pokrivenosti mobilnom mrežom ili je signal loš, koristit će se WLAN mreže."</string>
   <string name="wifi_call_help_title">WLAN Pozivi Pomoć</string>
   <string name="wifi_call_notification_message">"Ovu uslugu pruža Orange. Aktiviranje ove usluge može potrajati nekoliko sati. Primit ćete SMS potvrdu čim bude dostupna."</string>
   <string name="wifi_call_setting">WLAN pozivi</string>
-  <string name="wifi_call_setting_vodafone_de">WLAN pozivivanje</string>
-  <string name="wifi_call_setting_vodafone_uk">WLAN poziv</string>
-  <string name="wifi_calling">WLAN pozivi</string>
+  <string name="wifi_call_preferred_summary">"Ako odaberete preferiranu mobilnu mrežu, ona će se prema zadanim postavkama koristiti za telefonske pozive. U slučaju da nema pokrivenosti mobilnom mrežom ili je signal loš, koristit će se WLAN mreže."</string>
+  <string name="wifi_call_setting_vodafone_de">WLAN Pozivi</string>
+  <string name="wifi_call_setting_vodafone_uk">WLAN Pozivi</string>
+  <string name="wifi_call_welcome_settings">WLAN Pozivi</string>
+  <string name="wifi_calling">WLAN Pozivi</string>
   <string name="wifi_calling_call_assistant">Asistent poziva</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguraj</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Asistent poziva isključen</string>
   <string name="wifi_calling_call_assistant_none">Ništa</string>
-  <string name="wifi_calling_do_not_use">Nemojte koristiti WLAN poziv</string>
-  <string name="wifi_calling_do_not_use_call_assistant">Nemojte koristiti Asistenta poziva</string>
+  <string name="wifi_calling_do_not_use">Ne koristi WLAN pozive</string>
+  <string name="wifi_calling_do_not_use_call_assistant">Ne koristi Asistenta poziva</string>
   <string name="wifi_calling_preference_dialog_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_preference_summary">Promijenite WLAN sklonost pozivanja</string>
   <string name="wifi_calling_preference_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
-  <string name="wifi_calling_settings_title">WLAN pozivi</string>
-  <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
-  <string name="wifi_calling_title">WLAN pozivi</string>
+  <string name="wifi_calling_settings_title">WLAN Pozivi</string>
+  <string name="wifi_calling_summary">Omogućite WLAN Pozivi i odaberite WLAN sklonost za WLAN Pozivanje</string>
+  <string name="wifi_calling_title">WLAN Pozivi</string>
   <string name="wifi_calling_use_call_assistant">Koristi Asistenta poziva</string>
   <string name="wifi_calling_use_call_assistant_summary">Neka aplikacije ili usluge upravljaju mrežama korištene za pozive</string>
   <string name="wifi_cant_connect">Povezivanje nije uspjelo</string>

@@ -135,7 +135,9 @@
   <string name="retry">Pokušaj ponovo</string>
   <string name="runtime_permission_ungranted">"Ne mogu koristiti Snimač zbog nedobivenog dopuštenja"</string>
   <string name="search_app">Snimač</string>
+  <string name="search_empty">"Ne mogu naći rezultate"</string>
   <string name="search_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>
+  <string name="search_hint">Traži</string>
   <string name="search_led_indicator">Obavijesti zaklj. zaslona</string>
   <string name="search_led_indicator_prompt">Tijekom snimanja, prikaži prečac u statusnoj traci i pulsno svjetlo obavijesti kod Zaklj. zaslona</string>
   <string name="search_quliaty_title">Kvaliteta snimanja</string>

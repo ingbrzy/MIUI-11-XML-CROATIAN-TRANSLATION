@@ -15,6 +15,9 @@
   <string name="all_apps_setting_drawer_tips_desc">Ladicu aplikacija otvorate prevlačenjem prema gore na Početnom zaslonu. Ako promjenite na Početni zaslon sa Ladicom aplikacija, pretraživanje će biti nedostupno. Promjeniti svejedno?</string>
   <string name="all_apps_setting_drawer_tips_title">Koristite Ladicu aplikacija</string>
   <string name="all_apps_setting_drawer_title">Sa Ladicom aplikacija</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">Originalni raspored</string>
+  <string name="all_apps_setting_scroll_bar">Traka za pomicanje</string>
   <string name="all_apps_setting_title">Početni zaslon</string>
   <string name="all_apps_slide_up_tips">Pomicanje prema gore rezervirano je za otvaranje Ladice aplikacija. Promjenite na uobičajeni način Početnog zaslona i pokušajte ponovo.</string>
   <string name="all_apps_suggestions">Prijedlozi aplikacija</string>
@@ -95,7 +98,6 @@
   <string name="cant_remove_folder">"Ne mogu ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Ne mogu ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Ne mogu ukloniti aplikaciju sustava"</string>
-  <string name="cell_icon_size_title">Veličina ikona</string>
   <string name="change_wallpaper">Promjeni</string>
   <string name="children_folder_title">Dječji način</string>
   <string name="children_mode_exit">Izlaz</string>
@@ -228,8 +230,9 @@
   <string name="home_screen">Poč. zaslon</string>
   <string name="home_screen_settings">Poč. zaslon</string>
   <string name="home_slide_up_action">Prijeđite prstom prema gore na Poč. zaslonu</string>
-  <string name="icon_reorganize_channel">Raspored ikona</string>
-  <string name="image_too_small_message">"Izvorna slika nije dovoljno velika"</string>
+  <string name="icon_reorganize_channel">Rasporedite ikone</string>
+  <string name="icon_size">Veličina ikone</string>
+  <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
   <string name="install">Instaliraj</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>

@@ -51,14 +51,14 @@
         <item>Widgeti</item>
 	    <item>Postavke</item>
     </string-array>
-	<string-array name="cell_icon_size_entries">
-        <item>Sitne</item>
-        <item>Male</item>
-        <item>Srednje</item>
-        <item>Velike</item>
-        <item>Ogromne</item>
-    </string-array>
-    <string-array name="minus_screen_entries">
+   <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>    
+	<string-array name="minus_screen_entries">
         <item>Ništa</item>
         <item>Zaklj. aplikacija</item>
         <item>Google</item>
