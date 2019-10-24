@@ -136,7 +136,6 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="home_restore_error">"Ne mogu vratiti Poč. zaslon"</string>
   <string name="lack_of_storage">Nedostaje prostora za pohranu</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
-  <string name="loading_progress_num">Učitano %s%%</string>
   <string name="load_backup_failed">"Ne mogu učitati Sig. kopije"</string>
   <string name="loading_user_backup">Učitavanje korisničkih Sig. kopija…</string>
   <string name="managespace_delete_backup">Izbriši</string>
